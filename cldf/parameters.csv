@@ -1,0 +1,117 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_1si,1s/I,1209,I
+2_2syou,2s/you,1215,THOU
+3_3shesheit,3s/he/she/it,262,HE OR SHE OR IT
+4_ant,ant,587,ANT
+5_ashes,ashes,646,ASH
+6_backofbody,back of body,1291,BACK
+7_barkoftree,bark of tree,1204,BARK
+8_bellystomach,belly/stomach,2114,BELLY OR STOMACH
+9_biglarge,big/large,1202,BIG
+10_bird,bird,937,BIRD
+11_bitev,bite (v),1403,BITE
+12_bitter,bitter,887,BITTER
+13_black,black,163,BLACK
+14_blood,blood,946,BLOOD
+15_blowwithmouthv,blow (with mouth) (v),176,BLOW (WITH MOUTH)
+16_bone,bone,1394,BONE
+17_breastudder,breast/udder,1402,BREAST
+18_chest,chest,1592,CHEST
+19_child,child,2099,CHILD
+20_burnintrbealightv,burn (intr.)/be alight (v),1428,BURNING
+21_fingernailclaw,fingernail/claw,2128,CLAW OR NAIL
+22_cloud,cloud,1489,CLOUD
+23_die,die,1494,DIE
+24_dog,dog,2009,DOG
+25_drinkv,drink (v),1401,DRINK
+26_dryasleafclothadj,dry (as leaf/cloth) (adj),1398,DRY
+27_ear,ear,1247,EAR
+28_earthsoil,earth/soil,1228,EARTH (SOIL)
+29_eat,eat,1336,EAT
+30_egg,egg,744,EGG
+31_eye,eye,1248,EYE
+32_falldropv,fall/drop (v),1280,FALL
+33_fardistant,far/distant,1406,FAR
+34_fatgreaseoil,fat/grease/oil,323,FAT (ORGANIC SUBSTANCE)
+35_hairofbodyfeather,hair of body/feather,2381,FEATHER OR FUR OR HAIR
+36_hairofthehead,hair of the head,2648,HAIR (HEAD)
+37_firefirewood,fire/firewood,2675,FIRE OR FIREWOOD
+38_fish,fish,227,FISH
+39_fleshmeat,flesh/meat,2615,FLESH OR MEAT
+40_flyv,fly (v),1441,FLY (MOVE THROUGH AIR)
+41_footlowerleg,foot/lower leg,1301,FOOT
+42_fullofacontainerv,full (of a container) (v),1429,FULL
+43_give,give,1447,GIVE
+44_good,good,1035,GOOD
+45_greenblue,green/blue,2382,BLUE OR GREEN
+46_handarm,hand/arm,2121,ARM OR HAND
+47_hardsolid,hard/solid,1884,HARD
+48_head,head,1256,HEAD
+49_hearlisten,hear/listen,3862,HEAR OR LISTEN
+50_heart,heart,1223,HEART
+51_heavy,heavy,1210,HEAVY
+52_hornofdeernottusk,"horn (of deer, not tusk)",1393,HORN (ANATOMY)
+53_house,house,1252,HOUSE
+54_ininside,in/inside,1606,INSIDE
+55_killv,kill (v),1417,KILL
+56_knee,knee,1371,KNEE
+57_knowafactnotaperson,"know (a fact, not a person)",1410,KNOW (SOMETHING)
+58_leaf,leaf,628,LEAF
+59_liereclinev,lie/recline (v),1411,LIE (REST)
+60_liver,liver,1224,LIVER
+61_longofobjects,long (of objects),1203,LONG
+62_louseheadlice,louse (headlice),310,HEAD LOUSE
+63_lousebodylice,louse (bodylice),311,BODY LOUSE
+64_makedov,make/do (v),2575,DO OR MAKE
+65_moon,moon,1313,MOON
+66_mountain,mountain,639,MOUNTAIN
+67_mouth,mouth,674,MOUTH
+68_navelumbilicous,navel/umbilicous,1838,NAVEL
+69_neck,neck,1333,NECK
+70_new,new,1231,NEW
+71_night,night,1233,NIGHT
+72_nose,nose,1221,NOSE
+73_oldofthingsobjects,old (of things/objects),2113,OLD (USED)
+74_one,one,1493,ONE
+75_pathroad,path/road,2457,PATH OR ROAD
+76_personorclassifierforhumans,person (or classifier for humans),683,PERSON
+77_rain,rain,658,RAIN (PRECIPITATION)
+78_red,red,156,RED
+79_root,root,670,ROOT
+80_ropecord,rope/cord,1218,ROPE
+81_round,round,1395,ROUND
+82_runv,run (v),1519,RUN
+83_salt,salt,1274,SALT
+84_sand,sand,671,SAND
+85_sayspeaktalkv,say/speak/talk (v),1623,SPEAK
+86_seev,see (v),1409,SEE
+87_shadeshadow,shade/shadow,1388,SHADE
+88_sitv,sit (v),1416,SIT
+89_skin,skin,763,SKIN
+90_sleepv,sleep (v),1585,SLEEP
+91_small,small,1246,SMALL
+92_smoke,smoke,778,SMOKE (EXHAUST)
+93_standstandupintrv,stand/stand up (intr.) (v),570,STAND UP
+94_star,star,1430,STAR
+95_stone,stone,857,STONE
+96_sweet,sweet,717,SWEET
+97_sucklesuckonbreastformilkv,suckle/suck on breast for milk (v),2472,"SUCKLE (BREASTFEED, NURSE)"
+98_swimv,swim (v),1439,SWIM
+99_tail,tail,1220,TAIL
+100_thick,thick,1244,THICK
+101_thigh,thigh,471,UPPER LEG (THIGH)
+102_thisproximaldemonstrative,this (proximal demonstrative),1214,THIS
+103_tiebindv,tie/bind (v),1917,TIE
+104_tongue,tongue,1205,TONGUE
+105_tooth,tooth,1380,TOOTH
+106_tree,tree,906,TREE
+107_two,two,1498,TWO
+108_walkgobyfootv,walk/go by foot (v),1443,WALK
+109_warm,warm,1232,WARM
+110_water,water,948,WATER
+111_weepcryv,weep/cry (v),1839,CRY
+112_whatinterrogative,what (interrogative),1236,WHAT
+113_white,white,1335,WHITE
+114_whointerrogative,who (interrogative),1235,WHO
+115_wide,wide,1243,WIDE
+116_windair,wind/air,960,WIND

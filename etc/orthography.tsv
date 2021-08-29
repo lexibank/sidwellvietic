@@ -1,4 +1,6 @@
-Grapheme	IPA	Frequence	Codepoints
+Grapheme	IPA	Frequency	Codepoints
+^	NULL		
+$	NULL		
 k	k	777	U+006b
 a	a	714	U+0061
 t	t	701	U+0074

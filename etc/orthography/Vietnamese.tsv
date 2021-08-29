@@ -1,0 +1,2681 @@
+Grapheme	IPA	Frequency
+^	NULL	116
+t	t	23
+ao	ao	2
+$	NULL	116
+m	m	18
+à	à/a	6
+y	y	9
+n	n	44
+ó	ó/o	10
+k	k	1
+i	i	23
+ế	ế/e	4
+r	r	13
+o	o	4
+l	l	7
+ư	ư/u	7
+g	g	30
+v	v	2
+ỏ	ỏ/o	3
+b	b	6
+ụ	ụ/u	1
+ớ	ớ/o	3
+ch	cʰ	9
+c	c	12
+ǎ́	á/a	2
+đ	đ/ð	13
+ắ	ắ/a	1
+e	e	2
+áu	áu/au	1
+th	tʰ	3
+ổ	ổ/o	2
+x	x	3
+ơ	ơ/o	3
+ú	ú/u	2
+ự	ự/u	1
+áy	áy/ai	1
+â	â/a	3
+u	u	5
+ố	ó/o	5
+kh	kʰ	3
+ô	ô/o	3
+ai	ai	3
+ấ	ấ/a	4
+ǎ	ǎ/a	3
+ứ	ứ/u	3
+ạ̌	ạ̌/a	1
+a	a	6
+ỡ	ỡ/õ	2
+ử	ử/u	1
+á	á/a	4
+ị	ị/i	1
+ay	ay/ai	2
+ầ	ầ/a	3
+nh	nh/nʰ	3
+gh	gh/gʱ	1
+ặ	ặ/a	1
+s	s	2
+ừ	ừ/u	1
+ǎ̀	à/a	1
+d	d	4
+ậ	ậ/a	1
+úi	úi/ui	1
+ệ	ệ/e	1
+ê	ê/e	1
+ũi	ũi	1
+ũ	ũ	1
+ộ	ộ/o	2
+ờ	ờ/o	2
+ễ	ễ/e	1
+ạ	ạ/a	2
+ò	ò/o	1
+ồ	ồ/o	1
+ủ	ủ/u	1
+ọ	ọ/o	1
+ù	ù/u	1
+с	c	1
+h	h	1
+ì	ì/i	1
+^ai	ʔ aːi̯ ³³
+ai	ʔ aːi̯ ³³
+^anh	ʔ a n ³³
+anh	ʔ a n ³³
+^áo	ʔ aːu̯ ⁴⁵
+áo	ʔ aːu̯ ⁴⁵
+^aó	ʔ aːu̯ ⁴⁵
+aó	ʔ aːu̯ ⁴⁵
+^ba	ɓ aː ³³
+ba	ɓ aː ³³
+^ban	ɓ aː ŋ ³³
+ban	ɓ aː ŋ ³³
+^bao	ɓ aːu̯ ³³
+bao	ɓ aːu̯ ³³
+^bay	ɓ ai̯ ³³
+bay	ɓ ai̯ ³³
+^bia	ɓ iə ³³
+bia	ɓ iə ³³
+^biên	ɓ iː ŋ ³³
+biên	ɓ iː ŋ ³³
+^biến	ɓ iː ŋ ⁴⁵
+biến	ɓ iː ŋ ⁴⁵
+^biết	ɓ iː k ⁴⁵
+biết	ɓ iː k ⁴⁵
+^biển	ɓ iː ŋ ²¹⁴
+biển	ɓ iː ŋ ²¹⁴
+^bom	ɓ ɔː m ³³
+bom	ɓ ɔː m ³³
+^buôn	ɓ uː ŋ ³³
+buôn	ɓ uː ŋ ³³
+^buông	ɓ uː ŋ ³³
+buông	ɓ uː ŋ ³³
+^buồm	ɓ uː m ²¹
+buồm	ɓ uː m ²¹
+^bu_mơ_rang	b u ³³ + m əː ³³ + r aː ŋ ³³
+^bư_ơ_ú	b ɨːu̯ ³³
+^buồn	ɓ uː ŋ ²¹
+buồn	ɓ uː ŋ ²¹
+^buồng	ɓ uː ŋ ²¹
+buồng	ɓ uː ŋ ²¹
+^buổi	ɓ uːi̯ ²¹⁴
+buổi	ɓ uːi̯ ²¹⁴
+^buộc	ɓ uː k ²¹²
+buộc	ɓ uː k ²¹²
+^bà	ɓ aː ²¹
+bà	ɓ aː ²¹
+^bài	ɓ aːi̯ ²¹
+bài	ɓ aːi̯ ²¹
+^bàn	ɓ aː ŋ ²¹
+bàn	ɓ aː ŋ ²¹
+^bàng	ɓ aː ŋ ²¹
+bàng	ɓ aː ŋ ²¹
+^bác	ɓ aː k ⁴⁵
+bác	ɓ aː k ⁴⁵
+^bán	ɓ aː ŋ ⁴⁵
+bán	ɓ aː ŋ ⁴⁵
+^bánh	ɓ a n ⁴⁵
+bánh	ɓ a n ⁴⁵
+^báo	ɓ aːu̯ ⁴⁵
+báo	ɓ aːu̯ ⁴⁵
+^bát	ɓ aː k ⁴⁵
+bát	ɓ aː k ⁴⁵
+^bây	ɓ əi̯ ³³
+bây	ɓ əi̯ ³³
+^bão	ɓ aːu̯ ²¹⁴
+bão	ɓ aːu̯ ²¹⁴
+^bè	ɓ ɛː ²¹
+bè	ɓ ɛː ²¹
+^bé	ɓ ɛː ⁴⁵
+bé	ɓ ɛː ⁴⁵
+^bét	ɓ ɛː k ⁴⁵
+bét	ɓ ɛː k ⁴⁵
+^bên	ɓ əː n ³³
+bên	ɓ əː n ³³
+^bình	ɓ ɨ n ²¹
+bình	ɓ ɨ n ²¹
+^bí	ɓ i ⁴⁵
+bí	ɓ i ⁴⁵
+^bò	ɓ ɔː ²¹
+bò	ɓ ɔː ²¹
+^bóc	ɓ ɔ kp ⁴⁵
+bóc	ɓ ɔ kp ⁴⁵
+^bóng	ɓ ɔ ŋm ⁴⁵
+bóng	ɓ ɔ ŋm ⁴⁵
+^bông	ɓ ɔ ŋm ³³
+bông	ɓ ɔ ŋm ³³
+^bùn	ɓ u ŋm ²¹
+bùn	ɓ u ŋm ²¹
+^bú	ɓ u ⁴⁵
+bú	ɓ u ⁴⁵
+^búa	ɓ uə ⁴⁵
+búa	ɓ uə ⁴⁵
+^bút	ɓ u kp ⁴⁵
+bút	ɓ u kp ⁴⁵
+^búyt	ɓ ui̯ ⁴⁵
+búyt	ɓ ui̯ ⁴⁵
+^băng	ɓ a ŋ ³³
+băng	ɓ a ŋ ³³
+^bơ	ɓ əː ³³
+bơ	ɓ əː ³³
+^bơi	ɓ əːi̯ ³³
+bơi	ɓ əːi̯ ³³
+^bưu	ɓ ɨu̯ ³³
+bưu	ɓ ɨu̯ ³³
+^bươm	ɓ ɨː m ³³
+bươm	ɓ ɨː m ³³
+^bướm	ɓ ɨː m ⁴⁵
+bướm	ɓ ɨː m ⁴⁵
+^bạc	ɓ aː k ²¹²
+bạc	ɓ aː k ²¹²
+^bại	ɓ aːi̯ ²¹²
+bại	ɓ aːi̯ ²¹²
+^bạn	ɓ aː ŋ ²¹²
+bạn	ɓ aː ŋ ²¹²
+^bảng	ɓ aː ŋ ²¹⁴
+bảng	ɓ aː ŋ ²¹⁴
+^bảo	ɓ aːu̯ ²¹⁴
+bảo	ɓ aːu̯ ²¹⁴
+^bảy	ɓ ai̯ ²¹⁴
+bảy	ɓ ai̯ ²¹⁴
+^bầu	ɓ əu̯ ²¹
+bầu	ɓ əu̯ ²¹
+^bẩm	ɓ ə m ²¹⁴
+bẩm	ɓ ə m ²¹⁴
+^bẩn	ɓ ə ŋ ²¹⁴
+bẩn	ɓ ə ŋ ²¹⁴
+^bẫy	ɓ əi̯ ²¹⁴
+bẫy	ɓ əi̯ ²¹⁴
+^bắc	ɓ a k ⁴⁵
+bắc	ɓ a k ⁴⁵
+^bắn	ɓ a ŋ ⁴⁵
+bắn	ɓ a ŋ ⁴⁵
+^bắp	ɓ a p ⁴⁵
+bắp	ɓ a p ⁴⁵
+^bắt	ɓ a k ⁴⁵
+bắt	ɓ a k ⁴⁵
+^bằng	ɓ a ŋ ²¹
+bằng	ɓ a ŋ ²¹
+^bếp	ɓ eː p ⁴⁵
+bếp	ɓ eː p ⁴⁵
+^bệnh	ɓ əː n ²¹²
+bệnh	ɓ əː n ²¹²
+^bị	ɓ i ²¹²
+bị	ɓ i ²¹²
+^bọ	ɓ ɔː ²¹²
+bọ	ɓ ɔː ²¹²
+^bọt	ɓ ɔː k ²¹²
+bọt	ɓ ɔː k ²¹²
+^bỏ	ɓ ɔː ²¹⁴
+bỏ	ɓ ɔː ²¹⁴
+^bố	ɓ oː ⁴⁵
+bố	ɓ oː ⁴⁵
+^bốn	ɓ o ŋ ⁴⁵
+bốn	ɓ o ŋ ⁴⁵
+^bồ	ɓ oː ²¹
+bồ	ɓ oː ²¹
+^bồn	ɓ o ŋ ²¹
+bồn	ɓ o ŋ ²¹
+^bổng	ɓ ɔ ŋm ²¹⁴
+bổng	ɓ ɔ ŋm ²¹⁴
+^bộ	ɓ oː ²¹²
+bộ	ɓ oː ²¹²
+^bội	ɓ oːi̯ ²¹²
+bội	ɓ oːi̯ ²¹²
+^bột	ɓ o k ²¹²
+bột	ɓ o k ²¹²
+^bờ	ɓ əː ²¹
+bờ	ɓ əː ²¹
+^bụi	ɓ ui̯ ²¹²
+bụi	ɓ ui̯ ²¹²
+^bụng	ɓ u ŋm ²¹²
+bụng	ɓ u ŋm ²¹²
+^bữa	ɓ ɨə ²¹⁴
+bữa	ɓ ɨə ²¹⁴
+^ca	k aː ³³
+ca	k aː ³³
+^cam	k aː m ³³
+cam	k aː m ³³
+^can	k aː ŋ ³³
+can	k aː ŋ ³³
+^canh	k a n ³³
+canh	k a n ³³
+^cao	k aːu̯ ³³
+cao	k aːu̯ ³³
+^chai	c aːi̯ ³³
+chai	c aːi̯ ³³
+^che	c ɛː ³³
+che	c ɛː ³³
+^chia	c iə ³³
+chia	c iə ³³
+^chim	c i m ³³
+chim	c i m ³³
+^chiên	c iː ŋ ³³
+chiên	c iː ŋ ³³
+^chiếm	c iː m ⁴⁵
+chiếm	c iː m ⁴⁵
+^chiến	c iː ŋ ⁴⁵
+chiến	c iː ŋ ⁴⁵
+^chiếu	c iːu̯ ⁴⁵
+chiếu	c iːu̯ ⁴⁵
+^chiều	c iːu̯ ²¹
+chiều	c iːu̯ ²¹
+^cho	c ɔː ³³
+cho	c ɔː ³³
+^choàng	cʷ aː ŋ ²¹
+choàng	cʷ aː ŋ ²¹
+^chua	c uə ³³
+chua	c uə ³³
+^chuyển	cʷ iː ŋ ²¹⁴
+chuyển	cʷ iː ŋ ²¹⁴
+^chuẩn	cʷ ə ŋ ²¹⁴
+chuẩn	cʷ ə ŋ ²¹⁴
+^chuối	c uːi̯ ⁴⁵
+chuối	c uːi̯ ⁴⁵
+^chuồng	c uː ŋ ²¹
+chuồng	c uː ŋ ²¹
+^chuỗi	c uːi̯ ²¹⁴
+chuỗi	c uːi̯ ²¹⁴
+^chuột	c uː k ²¹²
+chuột	c uː k ²¹²
+^chà	c aː ²¹
+chà	c aː ²¹
+^chày	c ai̯ ²¹
+chày	c ai̯ ²¹
+^cháo	c aːu̯ ⁴⁵
+cháo	c aːu̯ ⁴⁵
+^cháu	c au̯ ⁴⁵
+cháu	c au̯ ⁴⁵
+^cháy	c ai̯ ⁴⁵
+cháy	c ai̯ ⁴⁵
+^chân	c ə ŋ ³³
+chân	c ə ŋ ³³
+^châu	c əu̯ ³³
+châu	c əu̯ ³³
+^chè	c ɛː ²¹
+chè	c ɛː ²¹
+^chèo	c ɛːu̯ ²¹
+chèo	c ɛːu̯ ²¹
+^chén	c ɛː ŋ ⁴⁵
+chén	c ɛː ŋ ⁴⁵
+^chét	c ɛː k ⁴⁵
+chét	c ɛː k ⁴⁵
+^chì	c i ²¹
+chì	c i ²¹
+^chìa	c iə ²¹
+chìa	c iə ²¹
+^chìm	c i m ²¹
+chìm	c i m ²¹
+^chín	c ɨ n ⁴⁵
+chín	c ɨ n ⁴⁵
+^chính	c ɨ n ⁴⁵
+chính	c ɨ n ⁴⁵
+^chó	c ɔː ⁴⁵
+chó	c ɔː ⁴⁵
+^chôn	c o ŋ ³³
+chôn	c o ŋ ³³
+^chùm	c ɨ m ²¹
+chùm	c ɨ m ²¹
+^chú	c u ⁴⁵
+chú	c u ⁴⁵
+^chúa	c uə ⁴⁵
+chúa	c uə ⁴⁵
+^chúng	c u ŋm ⁴⁵
+chúng	c u ŋm ⁴⁵
+^chăn	c a ŋ ³³
+chăn	c a ŋ ³³
+^chĩa	c iə ²¹⁴
+chĩa	c iə ²¹⁴
+^chơi	c əːi̯ ³³
+chơi	c əːi̯ ³³
+^chưa	c ɨə ³³
+chưa	c ɨə ³³
+^chước	c ɨː k ⁴⁵
+chước	c ɨː k ⁴⁵
+^chạc	c aː k ²¹²
+chạc	c aː k ²¹²
+^chạm	c aː m ²¹²
+chạm	c aː m ²¹²
+^chạy	c ai̯ ²¹²
+chạy	c ai̯ ²¹²
+^chải	c aːi̯ ²¹⁴
+chải	c aːi̯ ²¹⁴
+^chảo	c aːu̯ ²¹⁴
+chảo	c aːu̯ ²¹⁴
+^chảy	c ai̯ ²¹⁴
+chảy	c ai̯ ²¹⁴
+^chất	c ə k ⁴⁵
+chất	c ə k ⁴⁵
+^chấu	c əu̯ ⁴⁵
+chấu	c əu̯ ⁴⁵
+^chấy	c əi̯ ⁴⁵
+chấy	c əi̯ ⁴⁵
+^chậm	c ə m ²¹²
+chậm	c ə m ²¹²
+^chắc	c a k ⁴⁵
+chắc	c a k ⁴⁵
+^chặt	c a k ²¹²
+chặt	c a k ²¹²
+^chẻ	c ɛː ²¹⁴
+chẻ	c ɛː ²¹⁴
+^chế	c eː ⁴⁵
+chế	c eː ⁴⁵
+^chết	c əː t ⁴⁵
+chết	c əː t ⁴⁵
+^chỉ	c i ²¹⁴
+chỉ	c i ²¹⁴
+^chị	c i ²¹²
+chị	c i ²¹²
+^chọn	c ɔː ŋ ²¹²
+chọn	c ɔː ŋ ²¹²
+^chối	c oːi̯ ⁴⁵
+chối	c oːi̯ ⁴⁵
+^chốt	c o k ⁴⁵
+chốt	c o k ⁴⁵
+^chồng	c ɔ ŋm ²¹
+chồng	c ɔ ŋm ²¹
+^chổi	c oːi̯ ²¹⁴
+chổi	c oːi̯ ²¹⁴
+^chỗ	c oː ²¹⁴
+chỗ	c oː ²¹⁴
+^chớp	c əː p ⁴⁵
+chớp	c əː p ⁴⁵
+^chợ	c əː ²¹²
+chợ	c əː ²¹²
+^chủ	c u ²¹⁴
+chủ	c u ²¹⁴
+^chứng	c ɨ ŋ ⁴⁵
+chứng	c ɨ ŋ ⁴⁵
+^chữ	c ɨ ²¹⁴
+chữ	c ɨ ²¹⁴
+^chữa	c ɨə ²¹⁴
+chữa	c ɨə ²¹⁴
+^con	k ɔː ŋ ³³
+con	k ɔː ŋ ³³
+^cong	k ɔ ŋm ³³
+cong	k ɔ ŋm ³³
+^cung	k u ŋm ³³
+cung	k u ŋm ³³
+^cuốc	k uː k ⁴⁵
+cuốc	k uː k ⁴⁵
+^cuối	k uːi̯ ⁴⁵
+cuối	k uːi̯ ⁴⁵
+^cuốn	k uː ŋ ⁴⁵
+cuốn	k uː ŋ ⁴⁵
+^cuồng	k uː ŋ ²¹
+cuồng	k uː ŋ ²¹
+^cuộc	k uː k ²¹²
+cuộc	k uː k ²¹²
+^cuộn	k uː ŋ ²¹²
+cuộn	k uː ŋ ²¹²
+^cà	k aː ²¹
+cà	k aː ²¹
+^cành	k a n ²¹
+cành	k a n ²¹
+^cào	k aːu̯ ²¹
+cào	k aːu̯ ²¹
+^cày	k ai̯ ²¹
+cày	k ai̯ ²¹
+^cá	k aː ⁴⁵
+cá	k aː ⁴⁵
+^các	k aː k ⁴⁵
+các	k aː k ⁴⁵
+^cách	k a t ⁴⁵
+cách	k a t ⁴⁵
+^cái	k aːi̯ ⁴⁵
+cái	k aːi̯ ⁴⁵
+^cánh	k a n ⁴⁵
+cánh	k a n ⁴⁵
+^cáo	k aːu̯ ⁴⁵
+cáo	k aːu̯ ⁴⁵
+^cát	k aː k ⁴⁵
+cát	k aː k ⁴⁵
+^câm	k ə m ³³
+câm	k ə m ³³
+^cân	k ə ŋ ³³
+cân	k ə ŋ ³³
+^cǎng	k ə ŋ ³³
+cǎng	k ə ŋ ³³
+^câu	k əu̯ ³³
+câu	k əu̯ ³³
+^cây	k əi̯ ³³
+cây	k əi̯ ³³
+^cãi	k aːi̯ ²¹⁴
+cãi	k aːi̯ ²¹⁴
+^có	k ɔː ⁴⁵
+có	k ɔː ⁴⁵
+^cô	k oː ³³
+cô	k oː ³³
+^côi	k oːi̯ ³³
+côi	k oːi̯ ³³
+^côn	k o ŋ ³³
+côn	k o ŋ ³³
+^công	k ɔ ŋm ³³
+công	k ɔ ŋm ³³
+^cù	k u ²¹
+cù	k u ²¹
+^cùn	k u ŋm ²¹
+cùn	k u ŋm ²¹
+^cùng	k u ŋm ²¹
+cùng	k u ŋm ²¹
+^cú	k u ⁴⁵
+cú	k u ⁴⁵
+^cúng	k u ŋm ⁴⁵
+cúng	k u ŋm ⁴⁵
+^cút	k u kp ⁴⁵
+cút	k u kp ⁴⁵
+^cũ	k u ²¹⁴
+cũ	k u ²¹⁴
+^cơ	k əː ³³
+cơ	k əː ³³
+^cơm	k əː m ³³
+cơm	k əː m ³³
+^cưa	k ɨə ³³
+cưa	k ɨə ³³
+^cưới	k ɨːi̯ ⁴⁵
+cưới	k ɨːi̯ ⁴⁵
+^cười	k ɨːi̯ ²¹
+cười	k ɨːi̯ ²¹
+^cưỡi	k ɨːi̯ ²¹⁴
+cưỡi	k ɨːi̯ ²¹⁴
+^cưỡng	k ɨː ŋ ²¹⁴
+cưỡng	k ɨː ŋ ²¹⁴
+^cạnh	k a n ²¹²
+cạnh	k a n ²¹²
+^cạo	k aːu̯ ²¹²
+cạo	k aːu̯ ²¹²
+^cạp	k aː p ²¹²
+cạp	k aː p ²¹²
+^cả	k aː ²¹⁴
+cả	k aː ²¹⁴
+^cảm	k aː m ²¹⁴
+cảm	k aː m ²¹⁴
+^cảng	k aː ŋ ²¹⁴
+cảng	k aː ŋ ²¹⁴
+^cảnh	k a n ²¹⁴
+cảnh	k a n ²¹⁴
+^cấm	k ə m ⁴⁵
+cấm	k ə m ⁴⁵
+^cấn	k ə ŋ ⁴⁵
+cấn	k ə ŋ ⁴⁵
+^cầm	k ə m ²¹
+cầm	k ə m ²¹
+^cầu	k əu̯ ²¹
+cầu	k əu̯ ²¹
+^cậu	k əu̯ ²¹²
+cậu	k əu̯ ²¹²
+^cắn	k a ŋ ⁴⁵
+cắn	k a ŋ ⁴⁵
+^cắp	k a p ⁴⁵
+cắp	k a p ⁴⁵
+^cắt	k a k ⁴⁵
+cắt	k a k ⁴⁵
+^cằm	k a m ²¹
+cằm	k a m ²¹
+^cọ	k ɔː ²¹²
+cọ	k ɔː ²¹²
+^cỏ	k ɔː ²¹⁴
+cỏ	k ɔː ²¹⁴
+^cốc	k ɔ kp ⁴⁵
+cốc	k ɔ kp ⁴⁵
+^cối	k oːi̯ ⁴⁵
+cối	k oːi̯ ⁴⁵
+^cổ	k oː ²¹⁴
+cổ	k oː ²¹⁴
+^cột	k o k ²¹²
+cột	k o k ²¹²
+^cởi	k əːi̯ ²¹⁴
+cởi	k əːi̯ ²¹⁴
+^cụ	k u ²¹²
+cụ	k u ²¹²
+^củi	k ui̯ ²¹⁴
+củi	k ui̯ ²¹⁴
+^cứng	k ɨ ŋ ⁴⁵
+cứng	k ɨ ŋ ⁴⁵
+^cứu	k ɨu̯ ⁴⁵
+cứu	k ɨu̯ ⁴⁵
+^cừu	k ɨu̯ ²¹
+cừu	k ɨu̯ ²¹
+^cử	k ɨ ²¹⁴
+cử	k ɨ ²¹⁴
+^cửa	k ɨə ²¹⁴
+cửa	k ɨə ²¹⁴
+^cửi	k ɨi̯ ²¹⁴
+cửi	k ɨi̯ ²¹⁴
+^cực	k ɨ k ²¹²
+cực	k ɨ k ²¹²
+^da	j aː ³³
+da	j aː ³³
+^dao	j aːu̯ ³³
+dao	j aːu̯ ³³
+^diêm	j iː m ³³
+diêm	j iː m ³³
+^diên	j iː ŋ ³³
+diên	j iː ŋ ³³
+^diễn	j iː ŋ ²¹⁴
+diễn	j iː ŋ ²¹⁴
+^diệc	j iː k ²¹²
+diệc	j iː k ²¹²
+^do	j ɔː ³³
+do	j ɔː ³³
+^doạ	jʷ aː ²¹²
+doạ	jʷ aː ²¹²
+^duệ	jʷ eː ²¹²
+duệ	jʷ eː ²¹²
+^dài	j aːi̯ ²¹
+dài	j aːi̯ ²¹
+^dày	j ai̯ ²¹
+dày	j ai̯ ²¹
+^dái	j aːi̯ ⁴⁵
+dái	j aːi̯ ⁴⁵
+^dám	j aː m ⁴⁵
+dám	j aː m ⁴⁵
+^dâm	j ə m ³³
+dâm	j ə m ³³
+^dân	j ə ŋ ³³
+dân	j ə ŋ ³³
+^dâu	j əu̯ ³³
+dâu	j əu̯ ³³
+^dây	j əi̯ ³³
+dây	j əi̯ ³³
+^dê	j eː ³³
+dê	j eː ³³
+^dì	j i ²¹
+dì	j i ²¹
+^dích	j ɨ t ⁴⁵
+dích	j ɨ t ⁴⁵
+^dòng	j ɔ ŋm ²¹
+dòng	j ɔ ŋm ²¹
+^dùi	j ui̯ ²¹
+dùi	j ui̯ ²¹
+^dơi	j əːi̯ ³³
+dơi	j əːi̯ ³³
+^dương	j ɨː ŋ ³³
+dương	j ɨː ŋ ³³
+^dưới	j ɨːi̯ ⁴⁵
+dưới	j ɨːi̯ ⁴⁵
+^dượng	j ɨː ŋ ²¹²
+dượng	j ɨː ŋ ²¹²
+^dạ	j aː ²¹²
+dạ	j aː ²¹²
+^dạy	j ai̯ ²¹²
+dạy	j ai̯ ²¹²
+^dải	j aːi̯ ²¹⁴
+dải	j aːi̯ ²¹⁴
+^dấu	j əu̯ ⁴⁵
+dấu	j əu̯ ⁴⁵
+^dầu	j əu̯ ²¹
+dầu	j əu̯ ²¹
+^dẫn	j ə ŋ ²¹⁴
+dẫn	j ə ŋ ²¹⁴
+^dẻo	j ɛːu̯ ²¹⁴
+dẻo	j ɛːu̯ ²¹⁴
+^dền	j əː n ²¹
+dền	j əː n ²¹
+^dễ	j eː ²¹⁴
+dễ	j eː ²¹⁴
+^dệt	j əː t ²¹²
+dệt	j əː t ²¹²
+^dị	j i ²¹²
+dị	j i ²¹²
+^dối	j oːi̯ ⁴⁵
+dối	j oːi̯ ⁴⁵
+^dụng	j u ŋm ²¹²
+dụng	j u ŋm ²¹²
+^dừa	j ɨə ²¹
+dừa	j ɨə ²¹
+^dựng	j ɨ ŋ ²¹²
+dựng	j ɨ ŋ ²¹²
+^em	ʔ ɛː m ³³
+em	ʔ ɛː m ³³
+^eo	ʔ ɛːu̯ ³³
+eo	ʔ ɛːu̯ ³³
+^gai	ɡ aːi̯ ³³
+gai	ɡ aːi̯ ³³
+^gan	ɡ aː ŋ ³³
+gan	ɡ aː ŋ ³³
+^ghen	ɡ ɛː ŋ ³³
+ghen	ɡ ɛː ŋ ³³
+^ghim	ɡ i m ³³
+ghim	ɡ i m ³³
+^ghét	ɡ ɛː k ⁴⁵
+ghét	ɡ ɛː k ⁴⁵
+^ghẻ	ɡ ɛː ²¹⁴
+ghẻ	ɡ ɛː ²¹⁴
+^ghế	ɡ eː ⁴⁵
+ghế	ɡ eː ⁴⁵
+^gia	j aː ³³
+gia	j aː ³³
+^gian	j aː ŋ ³³
+gian	j aː ŋ ³³
+^gieo	j ɛːu̯ ³³
+gieo	j ɛːu̯ ³³
+^giun	j u ŋm ³³
+giun	j u ŋm ³³
+^già	j aː ²¹
+già	j aː ²¹
+^giàu	j au̯ ²¹
+giàu	j au̯ ²¹
+^giày	j ai̯ ²¹
+giày	j ai̯ ²¹
+^giá	j aː ⁴⁵
+giá	j aː ⁴⁵
+^gián	j aː ŋ ⁴⁵
+gián	j aː ŋ ⁴⁵
+^giáo	j aːu̯ ⁴⁵
+giáo	j aːu̯ ⁴⁵
+^gióng	j ɔ ŋm ⁴⁵
+gióng	j ɔ ŋm ⁴⁵
+^giúp	j ɨ p ⁴⁵
+giúp	j ɨ p ⁴⁵
+^giường	j ɨː ŋ ²¹
+giường	j ɨː ŋ ²¹
+^giải	j aːi̯ ²¹⁴
+giải	j aːi̯ ²¹⁴
+^giảng	j aː ŋ ²¹⁴
+giảng	j aː ŋ ²¹⁴
+^giấu	j əu̯ ⁴⁵
+giấu	j əu̯ ⁴⁵
+^giấy	j əi̯ ⁴⁵
+giấy	j əi̯ ⁴⁵
+^giần	j ə ŋ ²¹
+giần	j ə ŋ ²¹
+^giận	j ə ŋ ²¹²
+giận	j ə ŋ ²¹²
+^giếng	j iː ŋ ⁴⁵
+giếng	j iː ŋ ⁴⁵
+^giết	j iː k ⁴⁵
+giết	j iː k ⁴⁵
+^giọt	j ɔː k ²¹²
+giọt	j ɔː k ²¹²
+^giống	j ɔ ŋm ⁴⁵
+giống	j ɔ ŋm ⁴⁵
+^giộp	j oː p ²¹²
+giộp	j oː p ²¹²
+^giới	j əːi̯ ⁴⁵
+giới	j əːi̯ ⁴⁵
+^giờ	j əː ²¹
+giờ	j əː ²¹
+^giữ	j ɨ ²¹⁴
+giữ	j ɨ ²¹⁴
+^giữa	j ɨə ²¹⁴
+giữa	j ɨə ²¹⁴
+^goá	ɡʷ aː ⁴⁵
+goá	ɡʷ aː ⁴⁵
+^khoá	xʷ aː ⁴⁵
+khoá	xʷ aː ⁴⁵
+^gà	ɡ aː ²¹
+gà	ɡ aː ²¹
+^gàu	ɡ au̯ ²¹
+gàu	ɡ au̯ ²¹
+^gái	ɡ aːi̯ ⁴⁵
+gái	ɡ aːi̯ ⁴⁵
+^gáy	ɡ ai̯ ⁴⁵
+gáy	ɡ ai̯ ⁴⁵
+^gân	ɡ ə ŋ ³³
+gân	ɡ ə ŋ ³³
+^gì	j i ²¹
+gì	j i ²¹
+^gío	j ɔː ⁴⁵
+gío	j oː ⁴⁵
+^gió	j ɔː ⁴⁵
+gió	j oː ⁴⁵
+^góc	ɡ ɔ kp ⁴⁵
+góc	ɡ ɔ kp ⁴⁵
+^gói	ɡ ɔːi̯ ⁴⁵
+gói	ɡ ɔːi̯ ⁴⁵
+^gót	ɡ ɔː k ⁴⁵
+gót	ɡ ɔː k ⁴⁵
+^gươm	ɡ ɨː m ³³
+gươm	ɡ ɨː m ³³
+^gương	ɡ ɨː ŋ ³³
+gương	ɡ ɨː ŋ ³³
+^gạch	ɡ a t ²¹²
+gạch	ɡ a t ²¹²
+^gạo	ɡ aːu̯ ²¹²
+gạo	ɡ aːu̯ ²¹²
+^gả	ɡ aː ²¹⁴
+gả	ɡ aː ²¹⁴
+^gấp	ɡ ə p ⁴⁵
+gấp	ɡ ə p ⁴⁵
+^gấu	ɡ əu̯ ⁴⁵
+gấu	ɡ əu̯ ⁴⁵
+^gần	ɡ ə ŋ ²¹
+gần	ɡ ə ŋ ²¹
+^gậy	ɡ əi̯ ²¹²
+gậy	ɡ əi̯ ²¹²
+^gặp	ɡ a p ²¹²
+gặp	ɡ a p ²¹²
+^gọi	ɡ ɔːi̯ ²¹²
+gọi	ɡ ɔːi̯ ²¹²
+^gốc	ɡ ɔ kp ⁴⁵
+gốc	ɡ ɔ kp ⁴⁵
+^gối	ɡ oːi̯ ⁴⁵
+gối	ɡ oːi̯ ⁴⁵
+^gốm	ɡ oː m ⁴⁵
+gốm	ɡ oː m ⁴⁵
+^gỗ	ɡ oː ²¹⁴
+gỗ	ɡ oː ²¹⁴
+^gửi	ɡ ɨi̯ ²¹⁴
+gửi	ɡ ɨi̯ ²¹⁴
+^hai	h aːi̯ ³³
+hai	h aːi̯ ³³
+^hang	h aː ŋ ³³
+hang	h aː ŋ ³³
+^heo	h ɛːu̯ ³³
+heo	h ɛːu̯ ³³
+^hiểm	h iː m ²¹⁴
+hiểm	h iː m ²¹⁴
+^hiểu	h iːu̯ ²¹⁴
+hiểu	h iːu̯ ²¹⁴
+^hiện	h iː ŋ ²¹²
+hiện	h iː ŋ ²¹²
+^ho	h ɔː ³³
+ho	h ɔː ³³
+^hoa	hʷ aː ³³
+hoa	hʷ aː ³³
+^hoà	hʷ aː ²¹
+hoà	hʷ aː ²¹
+^hoàn	hʷ aː ŋ ²¹
+hoàn	hʷ aː ŋ ²¹
+^hoàng	hʷ aː ŋ ²¹
+hoàng	hʷ aː ŋ ²¹
+^hoá	hʷ aː ⁴⁵
+hoá	hʷ aː ⁴⁵
+^hoạch	hʷ a t ²¹²
+hoạch	hʷ a t ²¹²
+^hoại	hʷ aːi̯ ²¹²
+hoại	hʷ aːi̯ ²¹²
+^hoả	hʷ aː ²¹⁴
+hoả	hʷ aː ²¹⁴
+^hoặc	hʷ a k ²¹²
+hoặc	hʷ a k ²¹²
+^hy	h i ³³
+hy	h i ³³
+^hàm	h aː m ²¹
+hàm	h aː m ²¹
+^hàng	h aː ŋ ²¹
+hàng	h aː ŋ ²¹
+^hát	h aː k ⁴⁵
+hát	h aː k ⁴⁵
+^hãm	h aː m ²¹⁴
+hãm	h aː m ²¹⁴
+^hình	h ɨ n ²¹
+hình	h ɨ n ²¹
+^hòn	h ɔː ŋ ²¹
+hòn	h ɔː ŋ ²¹
+^hói	h ɔːi̯ ⁴⁵
+hói	h ɔːi̯ ⁴⁵
+^hôi	h oːi̯ ³³
+hôi	h oːi̯ ³³
+^hôm	h oː m ³³
+hôm	h oː m ³³
+^hôn	h o ŋ ³³
+hôn	h o ŋ ³³
+^hông	h ɔ ŋm ³³
+hông	h ɔ ŋm ³³
+^hú	h u ⁴⁵
+hú	h u ⁴⁵
+^hút	h u kp ⁴⁵
+hút	h u kp ⁴⁵
+^húyt	h ui̯ ⁴⁵
+húyt	h ui̯ ⁴⁵
+^hơi	h əːi̯ ³³
+hơi	h əːi̯ ³³
+^hư	h ɨ ³³
+hư	h ɨ ³³
+^hạ	h aː ²¹²
+hạ	h aː ²¹²
+^hạch	h a t ²¹²
+hạch	h a t ²¹²
+^hại	h aːi̯ ²¹²
+hại	h aːi̯ ²¹²
+^hạt	h aː k ²¹²
+hạt	h aː k ²¹²
+^hải	h aːi̯ ²¹⁴
+hải	h aːi̯ ²¹⁴
+^hậu	h əu̯ ²¹²
+hậu	h əu̯ ²¹²
+^hắn	h a ŋ ⁴⁵
+hắn	h a ŋ ⁴⁵
+^hắt	h a k ⁴⁵
+hắt	h a k ⁴⁵
+^hẹ	h ɛː ²¹²
+hẹ	h ɛː ²¹²
+^hẹp	h ɛː p ²¹²
+hẹp	h ɛː p ²¹²
+^họ	h ɔː ²¹²
+họ	h ɔː ²¹²
+^học	h ɔ kp ²¹²
+học	h ɔ kp ²¹²
+^họng	h ɔ ŋm ²¹²
+họng	h ɔ ŋm ²¹²
+^hỏi	h ɔːi̯ ²¹⁴
+hỏi	h ɔːi̯ ²¹⁴
+^hồ	h oː ²¹
+hồ	h oː ²¹
+^hồi	h oːi̯ ²¹
+hồi	h oːi̯ ²¹
+^Hồi	h oːi̯ ²¹
+Hồi	h oːi̯ ²¹
+^hồn	h o ŋ ²¹
+hồn	h o ŋ ²¹
+^hồng	h ɔ ŋm ²¹
+hồng	h ɔ ŋm ²¹
+^hộ	h oː ²¹²
+hộ	h oː ²¹²
+^hộp	h oː p ²¹²
+hộp	h oː p ²¹²
+^hứa	h ɨə ⁴⁵
+hứa	h ɨə ⁴⁵
+^hữu	h ɨu̯ ²¹⁴
+hữu	h ɨu̯ ²¹⁴
+^im	ʔ i m ³³
+im	ʔ i m ³³
+^iả	ʔ iə ²¹⁴
+iả	ʔ iə ²¹⁴
+^keo	k ɛːu̯ ³³
+keo	k ɛːu̯ ³³
+^khai	x aːi̯ ³³
+khai	x aːi̯ ³³
+^khi	x i ³³
+khi	x i ³³
+^khiên	x iː ŋ ³³
+khiên	x iː ŋ ³³
+^khiển	x iː ŋ ²¹⁴
+khiển	x iː ŋ ²¹⁴
+^khiễng	x iː ŋ ²¹⁴
+khiễng	x iː ŋ ²¹⁴
+^khiễu	x iːu̯ ²¹⁴
+khiễu	x iːu̯ ²¹⁴
+^khoai	xʷ aːi̯ ³³
+khoai	xʷ aːi̯ ³³
+^khoan	xʷ aː ŋ ³³
+khoan	xʷ aː ŋ ³³
+^khoe	xʷ ɛː ³³
+khoe	xʷ ɛː ³³
+^khung	x u ŋm ³³
+khung	x u ŋm ³³
+^khuyủ	xʷ iu̯ ²¹⁴
+khuyủ	xʷ iu̯ ²¹⁴
+^khuôn	x uː ŋ ³³
+khuôn	x uː ŋ ³³
+^khuấy	xʷ əi̯ ⁴⁵
+khuấy	xʷ əi̯ ⁴⁵
+^khác	x aː k ⁴⁵
+khác	x aː k ⁴⁵
+^khách	x a t ⁴⁵
+khách	x a t ⁴⁵
+^khát	x aː k ⁴⁵
+khát	x aː k ⁴⁵
+^khí	x i ⁴⁵
+khí	x i ⁴⁵
+^khó	x ɔː ⁴⁵
+khó	x ɔː ⁴⁵
+^khóa	xʷ aː ⁴⁵
+khóa	xʷ aː ⁴⁵
+^khóc	x ɔ kp ⁴⁵
+khóc	x ɔ kp ⁴⁵
+^khói	x ɔːi̯ ⁴⁵
+khói	x ɔːi̯ ⁴⁵
+^khô	x oː ³³
+khô	x oː ³³
+^khôn	x o ŋ ³³
+khôn	x o ŋ ³³
+^không	x ɔ ŋm ³³
+không	x ɔ ŋm ³³
+^khăn	x a ŋ ³³
+khăn	x a ŋ ³³
+^khạc	x aː k ²¹²
+khạc	x aː k ²¹²
+^khập	x ə p ²¹²
+khập	x ə p ²¹²
+^khắc	x a k ⁴⁵
+khắc	x a k ⁴⁵
+^khỉ	x i ²¹⁴
+khỉ	x i ²¹⁴
+^khỏe	xʷ ɛː ²¹⁴
+khỏe	xʷ ɛː ²¹⁴
+^kia	k iə ³³
+kia	k iə ³³
+^kim	k i m ³³
+kim	k i m ³³
+^kiêng	k iː ŋ ³³
+kiêng	k iː ŋ ³³
+^kiêu	k iːu̯ ³³
+kiêu	k iːu̯ ³³
+^kiến	k iː ŋ ⁴⁵
+kiến	k iː ŋ ⁴⁵
+^kiện	k iː ŋ ²¹²
+kiện	k iː ŋ ²¹²
+^kiệt	k iː k ²¹²
+kiệt	k iː k ²¹²
+^kè	k ɛː ²¹
+kè	k ɛː ²¹
+^kèn	k ɛː ŋ ²¹
+kèn	k ɛː ŋ ²¹
+^kém	k ɛː m ⁴⁵
+kém	k ɛː m ⁴⁵
+^kéo	k ɛːu̯ ⁴⁵
+kéo	k ɛːu̯ ⁴⁵
+^kê	k eː ³³
+kê	k eː ³³
+^kêu	k eːu̯ ³³
+kêu	k eːu̯ ³³
+^kích	k ɨ t ⁴⁵
+kích	k ɨ t ⁴⁵
+^kính	k ɨ n ⁴⁵
+kính	k ɨ n ⁴⁵
+^kẹo	k ɛːu̯ ²¹²
+kẹo	k ɛːu̯ ²¹²
+^kẹp	k ɛː p ²¹²
+kẹp	k ɛː p ²¹²
+^kẻ	k ɛː ²¹⁴
+kẻ	k ɛː ²¹⁴
+^kết	k əː t ⁴⁵
+kết	k əː t ⁴⁵
+^kền	k əː n ²¹
+kền	k əː n ²¹
+^la	l aː ³³
+la	l aː ³³
+^lang	l aː ŋ ³³
+lang	l aː ŋ ³³
+^lanh	l a n ³³
+lanh	l a n ³³
+^lao	l aːu̯ ³³
+lao	l aːu̯ ³³
+^lau	l au̯ ³³
+lau	l au̯ ³³
+^len	l ɛː ŋ ³³
+len	l ɛː ŋ ³³
+^leo	l ɛːu̯ ³³
+leo	l ɛːu̯ ³³
+^linh	l ɨ n ³³
+linh	l ɨ n ³³
+^liếm	l iː m ⁴⁵
+liếm	l iː m ⁴⁵
+^liềm	l iː m ²¹
+liềm	l iː m ²¹
+^lo	l ɔː ³³
+lo	l ɔː ³³
+^loài	lʷ aːi̯ ²¹
+loài	lʷ aːi̯ ²¹
+^lui	l ui̯ ³³
+lui	l ui̯ ³³
+^luôn	l uː ŋ ³³
+luôn	l uː ŋ ³³
+^luật	lʷ ə k ²¹²
+luật	lʷ ə k ²¹²
+^luống	l uː ŋ ⁴⁵
+luống	l uː ŋ ⁴⁵
+^ly	l i ³³
+ly	l i ³³
+^là	l aː ²¹
+là	l aː ²¹
+^làm	l aː m ²¹
+làm	l aː m ²¹
+^lá	l aː ⁴⁵
+lá	l aː ⁴⁵
+^lách	l a t ⁴⁵
+lách	l a t ⁴⁵
+^lái	l aːi̯ ⁴⁵
+lái	l aːi̯ ⁴⁵
+^lâu	l əu̯ ³³
+lâu	l əu̯ ³³
+^lên	l əː n ³³
+lên	l əː n ³³
+^lò	l ɔː ²¹
+lò	l ɔː ²¹
+^lòng	l ɔ ŋm ²¹
+lòng	l ɔ ŋm ²¹
+^lông	l ɔ ŋm ³³
+lông	l ɔ ŋm ³³
+^lúa	l uə ⁴⁵
+lúa	l uə ⁴⁵
+^lúc	l u kp ⁴⁵
+lúc	l u kp ⁴⁵
+^lăm	l a m ³³
+lăm	l a m ³³
+^lĩnh	l ɨ n ²¹⁴
+lĩnh	l ɨ n ²¹⁴
+^lũng	l u ŋm ²¹⁴
+lũng	l u ŋm ²¹⁴
+^lưng	l ɨ ŋ ³³
+lưng	l ɨ ŋ ³³
+^lưu	l ɨu̯ ³³
+lưu	l ɨu̯ ³³
+^lươn	l ɨː ŋ ³³
+lươn	l ɨː ŋ ³³
+^lưới	l ɨːi̯ ⁴⁵
+lưới	l ɨːi̯ ⁴⁵
+^lười	l ɨːi̯ ²¹
+lười	l ɨːi̯ ²¹
+^lưỡi	l ɨːi̯ ²¹⁴
+lưỡi	l ɨːi̯ ²¹⁴
+^lược	l ɨː k ²¹²
+lược	l ɨː k ²¹²
+^lạ	l aː ²¹²
+lạ	l aː ²¹²
+^lạc	l aː k ²¹²
+lạc	l aː k ²¹²
+^lại	l aːi̯ ²¹²
+lại	l aːi̯ ²¹²
+^lạnh	l a n ²¹²
+lạnh	l a n ²¹²
+^lạp	l aː p ²¹²
+lạp	l aː p ²¹²
+^lấy	l əi̯ ⁴⁵
+lấy	l əi̯ ⁴⁵
+^lần	l ə ŋ ²¹
+lần	l ə ŋ ²¹
+^lầy	l əi̯ ²¹
+lầy	l əi̯ ²¹
+^lẩm	l ə m ²¹⁴
+lẩm	l ə m ²¹⁴
+^lắc	l a k ⁴⁵
+lắc	l a k ⁴⁵
+^lắp	l a p ⁴⁵
+lắp	l a p ⁴⁵
+^lằn	l a ŋ ²¹
+lằn	l a ŋ ²¹
+^lặn	l a ŋ ²¹²
+lặn	l a ŋ ²¹²
+^lều	l eːu̯ ²¹
+lều	l eːu̯ ²¹
+^lễ	l eː ²¹⁴
+lễ	l eː ²¹⁴
+^lệ	l eː ²¹²
+lệ	l eː ²¹²
+^lệnh	l əː n ²¹²
+lệnh	l əː n ²¹²
+^lịch	l ɨ t ²¹²
+lịch	l ɨ t ²¹²
+^lọng	l ɔ ŋm ²¹²
+lọng	l ɔ ŋm ²¹²
+^lỗ	l oː ²¹⁴
+lỗ	l oː ²¹⁴
+^lỗi	l oːi̯ ²¹⁴
+lỗi	l oːi̯ ²¹⁴
+^lội	l oːi̯ ²¹²
+lội	l oːi̯ ²¹²
+^lột	l o k ²¹²
+lột	l o k ²¹²
+^lớn	l əː ŋ ⁴⁵
+lớn	l əː ŋ ⁴⁵
+^lời	l əːi̯ ²¹
+lời	l əːi̯ ²¹
+^lợi	l əːi̯ ²¹²
+lợi	l əːi̯ ²¹²
+^lợn	l əː ŋ ²¹²
+lợn	l əː ŋ ²¹²
+^lục	l u kp ²¹²
+lục	l u kp ²¹²
+^lừa	l ɨə ²¹
+lừa	l ɨə ²¹
+^lửa	l ɨə ²¹⁴
+lửa	l ɨə ²¹⁴
+^m	m
+m	m
+^ma	m aː ³³
+ma	m aː ³³
+^mai	m aːi̯ ³³
+mai	m aːi̯ ³³
+^mang	m aː ŋ ³³
+mang	m aː ŋ ³³
+^may	m ai̯ ³³
+may	m ai̯ ³³
+^mi	m i ³³
+mi	m i ³³
+^minh	m ɨ n ³³
+minh	m ɨ n ³³
+^miếu	m iːu̯ ⁴⁵
+miếu	m iːu̯ ⁴⁵
+^miệng	m iː ŋ ²¹²
+miệng	m iː ŋ ²¹²
+^mong	m ɔ ŋm ³³
+mong	m ɔ ŋm ³³
+^mua	m uə ³³
+mua	m uə ³³
+^muối	m uːi̯ ⁴⁵
+muối	m uːi̯ ⁴⁵
+^muốn	m uː ŋ ⁴⁵
+muốn	m uː ŋ ⁴⁵
+^muỗi	m uːi̯ ²¹⁴
+muỗi	m uːi̯ ²¹⁴
+^muỗng	m uː ŋ ²¹⁴
+muỗng	m uː ŋ ²¹⁴
+^muộn	m uː ŋ ²¹²
+muộn	m uː ŋ ²¹²
+^mài	m aːi̯ ²¹
+mài	m aːi̯ ²¹
+^màu	m au̯ ²¹
+màu	m au̯ ²¹
+^mày	m ai̯ ²¹
+mày	m ai̯ ²¹
+^má	m aː ⁴⁵
+má	m aː ⁴⁵
+^mái	m aːi̯ ⁴⁵
+mái	m aːi̯ ⁴⁵
+^máng	m aː ŋ ⁴⁵
+máng	m aː ŋ ⁴⁵
+^mát	m aː k ⁴⁵
+mát	m aː k ⁴⁵
+^máu	m au̯ ⁴⁵
+máu	m au̯ ⁴⁵
+^máy	m ai̯ ⁴⁵
+máy	m ai̯ ⁴⁵
+^mây	m əi̯ ³³
+mây	m əi̯ ³³
+^mèo	m ɛːu̯ ²¹
+mèo	m ɛːu̯ ²¹
+^mì	m i ²¹
+mì	m i ²¹
+^mình	m ɨ n ²¹
+mình	m ɨ n ²¹
+^mí	m i ⁴⁵
+mí	m i ⁴⁵
+^mía	m iə ⁴⁵
+mía	m iə ⁴⁵
+^mòng	m ɔ ŋm ²¹
+mòng	m ɔ ŋm ²¹
+^mó	m ɔː ⁴⁵
+mó	m ɔː ⁴⁵
+^móc	m ɔ kp ⁴⁵
+móc	m ɔ kp ⁴⁵
+^móng	m ɔ ŋm ⁴⁵
+móng	m ɔ ŋm ⁴⁵
+^mô	m oː ³³
+mô	m oː ³³
+^môi	m oːi̯ ³³
+môi	m oːi̯ ³³
+^mông	m ɔ ŋm ³³
+mông	m ɔ ŋm ³³
+^mù	m u ²¹
+mù	m u ²¹
+^mùa	m uə ²¹
+mùa	m uə ²¹
+^mùi	m ui̯ ²¹
+mùi	m ui̯ ²¹
+^mũ	m u ²¹⁴
+mũ	m u ²¹⁴
+^mũi	m ui̯ ²¹⁴
+mũi	m ui̯ ²¹⁴
+^mơ	m əː ³³
+mơ	m əː ³³
+^mưa	m ɨə ³³
+mưa	m ɨə ³³
+^mưu	m ɨu̯ ³³
+mưu	m ɨu̯ ³³
+^mươi	m ɨːi̯ ³³
+mươi	m ɨːi̯ ³³
+^mương	m ɨː ŋ ³³
+mương	m ɨː ŋ ³³
+^mười	m ɨːi̯ ²¹
+mười	m ɨːi̯ ²¹
+^mạch	m a t ²¹²
+mạch	m a t ²¹²
+^mạng	m aː ŋ ²¹²
+mạng	m aː ŋ ²¹²
+^mạnh	m a n ²¹²
+mạnh	m a n ²¹²
+^mả	m aː ²¹⁴
+mả	m aː ²¹⁴
+^mảnh	m a n ²¹⁴
+mảnh	m a n ²¹⁴
+^mất	m ə k ⁴⁵
+mất	m ə k ⁴⁵
+^mấy	m əi̯ ⁴⁵
+mấy	m əi̯ ⁴⁵
+^mập	m ə p ²¹²
+mập	m ə p ²¹²
+^mật	m ə k ²¹²
+mật	m ə k ²¹²
+^mắng	m a ŋ ⁴⁵
+mắng	m a ŋ ⁴⁵
+^mắt	m a k ⁴⁵
+mắt	m a k ⁴⁵
+^mặc	m a k ²¹²
+mặc	m a k ²¹²
+^mặn	m a ŋ ²¹²
+mặn	m a ŋ ²¹²
+^mặt	m a k ²¹²
+mặt	m a k ²¹²
+^mẹ	m ɛː ²¹²
+mẹ	m ɛː ²¹²
+^mềm	m eː m ²¹
+mềm	m eː m ²¹
+^mền	m əː n ²¹
+mền	m əː n ²¹
+^mệnh	m əː n ²¹²
+mệnh	m əː n ²¹²
+^mệt	m əː t ²¹²
+mệt	m əː t ²¹²
+^mỉm	m i m ²¹⁴
+mỉm	m i m ²¹⁴
+^mọt	m ɔː k ²¹²
+mọt	m ɔː k ²¹²
+^mỏ	m ɔː ²¹⁴
+mỏ	m ɔː ²¹⁴
+^mỏng	m ɔ ŋm ²¹⁴
+mỏng	m ɔ ŋm ²¹⁴
+^mối	m oːi̯ ⁴⁵
+mối	m oːi̯ ⁴⁵
+^mồ	m oː ²¹
+mồ	m oː ²¹
+^mồi	m oːi̯ ²¹
+mồi	m oːi̯ ²¹
+^mộc	m ɔ kp ²¹²
+mộc	m ɔ kp ²¹²
+^một	m o k ²¹²
+một	m o k ²¹²
+^mới	m əːi̯ ⁴⁵
+mới	m əːi̯ ⁴⁵
+^mờ	m əː ²¹
+mờ	m əː ²¹
+^mời	m əːi̯ ²¹
+mời	m əːi̯ ²¹
+^mở	m əː ²¹⁴
+mở	m əː ²¹⁴
+^mỡ	m əː ²¹⁴
+mỡ	m əː ²¹⁴
+^mục	m u kp ²¹²
+mục	m u kp ²¹²
+^mủ	m u ²¹⁴
+mủ	m u ²¹⁴
+^mửa	m ɨə ²¹⁴
+mửa	m ɨə ²¹⁴
+^nai	n aːi̯ ³³
+nai	n aːi̯ ³³
+^nam	n aː m ³³
+nam	n aː m ³³
+^nay	n ai̯ ³³
+nay	n ai̯ ³³
+^neo	n ɛːu̯ ³³
+neo	n ɛːu̯ ³³
+^ngan	ŋ aː ŋ ³³
+ngan	ŋ aː ŋ ³³
+^ngay	ŋ ai̯ ³³
+ngay	ŋ ai̯ ³³
+^nghe	ŋ ɛː ³³
+nghe	ŋ ɛː ³³
+^nghi	ŋ i ³³
+nghi	ŋ i ³³
+^nghèo	ŋ ɛːu̯ ²¹
+nghèo	ŋ ɛːu̯ ²¹
+^nghìn	ŋ ɨ n ²¹
+nghìn	ŋ ɨ n ²¹
+^nghĩ	ŋ i ²¹⁴
+nghĩ	ŋ i ²¹⁴
+^nghẹt	ŋ ɛː k ²¹²
+nghẹt	ŋ ɛː k ²¹²
+^nghỉ	ŋ i ²¹⁴
+nghỉ	ŋ i ²¹⁴
+^ngoài	ŋʷ aːi̯ ²¹
+ngoài	ŋʷ aːi̯ ²¹
+^ngoại	ŋʷ aːi̯ ²¹²
+ngoại	ŋʷ aːi̯ ²¹²
+^ngu	ŋ u ³³
+ngu	ŋ u ³³
+^nguy	ŋʷ i ³³
+nguy	ŋʷ i ³³
+^nguyên	ŋʷ iː ŋ ³³
+nguyên	ŋʷ iː ŋ ³³
+^nguyền	ŋʷ iː ŋ ²¹
+nguyền	ŋʷ iː ŋ ²¹
+^ngày	ŋ ai̯ ²¹
+ngày	ŋ ai̯ ²¹
+^ngáp	ŋ aː p ⁴⁵
+ngáp	ŋ aː p ⁴⁵
+^ngáy	ŋ ai̯ ⁴⁵
+ngáy	ŋ ai̯ ⁴⁵
+^ngân	ŋ ə ŋ ³³
+ngân	ŋ ə ŋ ³³
+^ngón	ŋ ɔː ŋ ⁴⁵
+ngón	ŋ ɔː ŋ ⁴⁵
+^ngô	ŋ oː ³³
+ngô	ŋ oː ³³
+^ngôn	ŋ o ŋ ³³
+ngôn	ŋ o ŋ ³³
+^ngăn	ŋ a ŋ ³³
+ngăn	ŋ a ŋ ³³
+^người	ŋ ɨːi̯ ²¹
+người	ŋ ɨːi̯ ²¹
+^ngạc	ŋ aː k ²¹²
+ngạc	ŋ aː k ²¹²
+^ngạo	ŋ aːu̯ ²¹²
+ngạo	ŋ aːu̯ ²¹²
+^ngầm	ŋ ə m ²¹
+ngầm	ŋ ə m ²¹
+^ngắn	ŋ a ŋ ⁴⁵
+ngắn	ŋ a ŋ ⁴⁵
+^ngắt	ŋ a k ⁴⁵
+ngắt	ŋ a k ⁴⁵
+^ngọc	ŋ ɔ kp ²¹²
+ngọc	ŋ ɔ kp ²¹²
+^ngọn	ŋ ɔː ŋ ²¹²
+ngọn	ŋ ɔː ŋ ²¹²
+^ngọt	ŋ ɔː k ²¹²
+ngọt	ŋ ɔː k ²¹²
+^ngồi	ŋ oːi̯ ²¹
+ngồi	ŋ oːi̯ ²¹
+^ngỗng	ŋ ɔ ŋm ²¹⁴
+ngỗng	ŋ ɔ ŋm ²¹⁴
+^ngờ	ŋ əː ²¹
+ngờ	ŋ əː ²¹
+^ngợi	ŋ əːi̯ ²¹²
+ngợi	ŋ əːi̯ ²¹²
+^ngục	ŋ u kp ²¹²
+ngục	ŋ u kp ²¹²
+^ngủ	ŋ u ²¹⁴
+ngủ	ŋ u ²¹⁴
+^ngứa	ŋ ɨə ⁴⁵
+ngứa	ŋ ɨə ⁴⁵
+^ngừng	ŋ ɨ ŋ ²¹
+ngừng	ŋ ɨ ŋ ²¹
+^ngửi	ŋ ɨi̯ ²¹⁴
+ngửi	ŋ ɨi̯ ²¹⁴
+^ngữ	ŋ ɨ ²¹⁴
+ngữ	ŋ ɨ ²¹⁴
+^ngựa	ŋ ɨə ²¹²
+ngựa	ŋ ɨə ²¹²
+^ngực	ŋ ɨ k ²¹²
+ngực	ŋ ɨ k ²¹²
+^nhai	ɲ aːi̯ ³³
+nhai	ɲ aːi̯ ³³
+^nhanh	ɲ a n ³³
+nhanh	ɲ a n ³³
+^nhau	ɲ au̯ ³³
+nhau	ɲ au̯ ³³
+^nhiên	ɲ iː ŋ ³³
+nhiên	ɲ iː ŋ ³³
+^nhiêu	ɲ iːu̯ ³³
+nhiêu	ɲ iːu̯ ³³
+^nhiều	ɲ iːu̯ ²¹
+nhiều	ɲ iːu̯ ²¹
+^nho	ɲ ɔː ³³
+nho	ɲ ɔː ³³
+^nhuộm	ɲ uː m ²¹²
+nhuộm	ɲ uː m ²¹²
+^nhà	ɲ aː ²¹
+nhà	ɲ aː ²¹
+^nhào	ɲ aːu̯ ²¹
+nhào	ɲ aːu̯ ²¹
+^nháy	ɲ ai̯ ⁴⁵
+nháy	ɲ ai̯ ⁴⁵
+^nhân	ɲ ə ŋ ³³
+nhân	ɲ ə ŋ ³³
+^nhìn	ɲ ɨ n ²¹
+nhìn	ɲ ɨ n ²¹
+^nhăn	ɲ a ŋ ³³
+nhăn	ɲ a ŋ ³³
+^như	ɲ ɨ ³³
+như	ɲ ɨ ³³
+^nhạc	ɲ aː k ²¹²
+nhạc	ɲ aː k ²¹²
+^nhạt	ɲ aː k ²¹²
+nhạt	ɲ aː k ²¹²
+^nhảy	ɲ ai̯ ²¹⁴
+nhảy	ɲ ai̯ ²¹⁴
+^nhầy	ɲ əi̯ ²¹
+nhầy	ɲ əi̯ ²¹
+^nhẫn	ɲ ə ŋ ²¹⁴
+nhẫn	ɲ ə ŋ ²¹⁴
+^nhận	ɲ ə ŋ ²¹²
+nhận	ɲ ə ŋ ²¹²
+^nhật	ɲ ə k ²¹²
+nhật	ɲ ə k ²¹²
+^nhẵn	ɲ a ŋ ²¹⁴
+nhẵn	ɲ a ŋ ²¹⁴
+^nhặt	ɲ a k ²¹²
+nhặt	ɲ a k ²¹²
+^nhẹ	ɲ ɛː ²¹²
+nhẹ	ɲ ɛː ²¹²
+^nhện	ɲ əː n ²¹²
+nhện	ɲ əː n ²¹²
+^nhọn	ɲ ɔː ŋ ²¹²
+nhọn	ɲ ɔː ŋ ²¹²
+^nhọt	ɲ ɔː k ²¹²
+nhọt	ɲ ɔː k ²¹²
+^nhỏ	ɲ ɔː ²¹⁴
+nhỏ	ɲ ɔː ²¹⁴
+^nhớ	ɲ əː ⁴⁵
+nhớ	ɲ əː ⁴⁵
+^nhựa	ɲ ɨə ²¹²
+nhựa	ɲ ɨə ²¹²
+^nong	n ɔ ŋm ³³
+nong	n ɔ ŋm ³³
+^nuôi	n uːi̯ ³³
+nuôi	n uːi̯ ³³
+^nuốt	n uː k ⁴⁵
+nuốt	n uː k ⁴⁵
+^nào	n aːu̯ ²¹
+nào	n aːu̯ ²¹
+^này	n ai̯ ²¹
+này	n ai̯ ²¹
+^ná	n aː ⁴⁵
+ná	n aː ⁴⁵
+^nách	n a t ⁴⁵
+nách	n a t ⁴⁵
+^nâng	n ə ŋ ³³
+nâng	n ə ŋ ³³
+^nó	n ɔː ⁴⁵
+nó	n ɔː ⁴⁵
+^nóc	n ɔ kp ⁴⁵
+nóc	n ɔ kp ⁴⁵
+^nói	n ɔːi̯ ⁴⁵
+nói	n ɔːi̯ ⁴⁵
+^nón	n ɔː ŋ ⁴⁵
+nón	n ɔː ŋ ⁴⁵
+^nóng	n ɔ ŋm ⁴⁵
+nóng	n ɔ ŋm ⁴⁵
+^nô	n oː ³³
+nô	n oː ³³
+^nông	n ɔ ŋm ³³
+nông	n ɔ ŋm ³³
+^núi	n ui̯ ⁴⁵
+núi	n ui̯ ⁴⁵
+^nút	n u kp ⁴⁵
+nút	n u kp ⁴⁵
+^năm	n a m ³³
+năm	n a m ³³
+^nĩa	n iə ²¹⁴
+nĩa	n iə ²¹⁴
+^nơi	n əːi̯ ³³
+nơi	n əːi̯ ³³
+^nước	n ɨː k ⁴⁵
+nước	n ɨː k ⁴⁵
+^nạn	n aː ŋ ²¹²
+nạn	n aː ŋ ²¹²
+^nấc	n ə k ⁴⁵
+nấc	n ə k ⁴⁵
+^nấm	n ə m ⁴⁵
+nấm	n ə m ⁴⁵
+^nấu	n əu̯ ⁴⁵
+nấu	n əu̯ ⁴⁵
+^nắm	n a m ⁴⁵
+nắm	n a m ⁴⁵
+^nằm	n a m ²¹
+nằm	n a m ²¹
+^nặng	n a ŋ ²¹²
+nặng	n a ŋ ²¹²
+^nến	n əː n ⁴⁵
+nến	n əː n ⁴⁵
+^nếu	n eːu̯ ⁴⁵
+nếu	n eːu̯ ⁴⁵
+^nề	n eː ²¹
+nề	n eː ²¹
+^nệm	n eː m ²¹²
+nệm	n eː m ²¹²
+^nỉ	n i ²¹⁴
+nỉ	n i ²¹⁴
+^nối	n oːi̯ ⁴⁵
+nối	n oːi̯ ⁴⁵
+^nổi	n oːi̯ ²¹⁴
+nổi	n oːi̯ ²¹⁴
+^nỗi	n oːi̯ ²¹⁴
+nỗi	n oːi̯ ²¹⁴
+^nợ	n əː ²¹²
+nợ	n əː ²¹²
+^nửa	n ɨə ²¹⁴
+nửa	n ɨə ²¹⁴
+^nữ	n ɨ ²¹⁴
+nữ	n ɨ ²¹⁴
+^nữa	n ɨə ²¹⁴
+nữa	n ɨə ²¹⁴
+^ong	ʔ ɔ ŋm ³³
+ong	ʔ ɔ ŋm ³³
+^phi	f i ³³
+phi	f i ³³
+^phim	f i m ³³
+phim	f i m ³³
+^phong	f ɔ ŋm ³³
+phong	f ɔ ŋm ³³
+^phá	f aː ⁴⁵
+phá	f aː ⁴⁵
+^phán	f aː ŋ ⁴⁵
+phán	f aː ŋ ⁴⁵
+^pháo	f aːu̯ ⁴⁵
+pháo	f aːu̯ ⁴⁵
+^pháp	f aː p ⁴⁵
+pháp	f aː p ⁴⁵
+^phân	f ə ŋ ³³
+phân	f ə ŋ ³³
+^phép	f ɛː p ⁴⁵
+phép	f ɛː p ⁴⁵
+^phê	f eː ³³
+phê	f eː ³³
+^phòng	f ɔ ŋm ²¹
+phòng	f ɔ ŋm ²¹
+^phó	f ɔː ⁴⁵
+phó	f ɔː ⁴⁵
+^phóng	f ɔ ŋm ⁴⁵
+phóng	f ɔ ŋm ⁴⁵
+^phù	f u ²¹
+phù	f u ²¹
+^phúc	f u kp ⁴⁵
+phúc	f u kp ⁴⁵
+^phạm	f aː m ²¹²
+phạm	f aː m ²¹²
+^phạt	f aː k ²¹²
+phạt	f aː k ²¹²
+^phải	f aːi̯ ²¹⁴
+phải	f aːi̯ ²¹⁴
+^phản	f aː ŋ ²¹⁴
+phản	f aː ŋ ²¹⁴
+^phẩm	f ə m ²¹⁴
+phẩm	f ə m ²¹⁴
+^phận	f ə ŋ ²¹²
+phận	f ə ŋ ²¹²
+^phố	f oː ⁴⁵
+phố	f oː ⁴⁵
+^phổi	f oːi̯ ²¹⁴
+phổi	f oːi̯ ²¹⁴
+^phụ	f u ²¹²
+phụ	f u ²¹²
+^phục	f u kp ²¹²
+phục	f u kp ²¹²
+^phủ	f u ²¹⁴
+phủ	f u ²¹⁴
+^pin	p ɨ n ³³
+pin	p ɨ n ³³
+^ponsô	p ɔː ŋ ³³ + s ɔː ³³
+ponsô	p ɔː ŋ ³³ + s ɔː ³³
+^pích	p ɨ t ⁴⁵
+pích	p ɨ t ⁴⁵
+^qua	w aː ³³
+qua	w aː ³³
+^quan	w aː ŋ ³³
+quan	w aː ŋ ³³
+^quang	w aː ŋ ³³
+quang	w aː ŋ ³³
+^quay	w ai̯ ³³
+quay	w ai̯ ³³
+^quy	w i ³³
+quy	w i ³³
+^quyết	w iː k ⁴⁵
+quyết	w iː k ⁴⁵
+^quân	w ə ŋ ³³
+quân	w ə ŋ ³³
+^què	w ɛː ²¹
+què	w ɛː ²¹
+^quét	w ɛː k ⁴⁵
+quét	w ɛː k ⁴⁵
+^quên	w əː n ³³
+quên	w əː n ³³
+^quì	w i ²¹
+quì	w i ²¹
+^quít	w ɨ t ⁴⁵
+quít	w ɨ t ⁴⁵
+^quạt	w aː k ²¹²
+quạt	w aː k ²¹²
+^quả	w aː ²¹⁴
+quả	w aː ²¹⁴
+^quản	w aː ŋ ²¹⁴
+quản	w aː ŋ ²¹⁴
+qủ	w u ²¹⁴
+^qủ	w u ²¹⁴
+gu	g u ³³
+ru	r u ³³
+bươú	b ɨu̯ ⁴⁵
+^quần	w ə ŋ ²¹
+quần	w ə ŋ ²¹
+^quốc	w ɔ kp ⁴⁵
+quốc	w ɔ kp ⁴⁵
+^aó_pon_sô	ʔ aːu̯ ⁴⁵ + p oː ŋ ³³ + s ɔː ³³
+qú	w u ⁴⁵
+^qúy	w i ⁴⁵
+qúy	w i ⁴⁵
+^qủy	w i ²¹⁴
+qủy	w i ²¹⁴
+^ra	r aː ³³
+ra	r aː ³³
+^racoon	r aː ³³ + k oː ŋ ³³
+racoon	r aː ³³ + k oː ŋ ³³
+^rau	r au̯ ³³
+rau	r au̯ ³³
+^riêng	r iː ŋ ³³
+riêng	r iː ŋ ³³
+^rui	r ui̯ ³³
+rui	r ui̯ ³³
+^run	r u ŋm ³³
+run	r u ŋm ³³
+^rung	r u ŋm ³³
+rung	r u ŋm ³³
+^ruổi	r uːi̯ ²¹⁴
+ruổi	r uːi̯ ²¹⁴
+^ruộng	r uː ŋ ²¹²
+ruộng	r uː ŋ ²¹²
+^ruột	r uː k ²¹²
+ruột	r uː k ²¹²
+^rào	r aːu̯ ²¹
+rào	r aːu̯ ²¹
+^rán	r aː ŋ ⁴⁵
+rán	r aː ŋ ⁴⁵
+^ráp	r aː p ⁴⁵
+ráp	r aː p ⁴⁵
+^ráy	r ai̯ ⁴⁵
+ráy	r ai̯ ⁴⁵
+^râu	r əu̯ ³³
+râu	r əu̯ ³³
+^rèn	r ɛː ŋ ²¹
+rèn	r ɛː ŋ ²¹
+^rên	r əː n ³³
+rên	r əː n ³³
+^rìu	r iu̯ ²¹
+rìu	r iu̯ ²¹
+^rót	r ɔː k ⁴⁵
+rót	r ɔː k ⁴⁵
+^rùa	r uə ²¹
+rùa	r uə ²¹
+^rút	r u kp ⁴⁵
+rút	r u kp ⁴⁵
+^răng	r a ŋ ³³
+răng	r a ŋ ³³
+^rơi	r əːi̯ ³³
+rơi	r əːi̯ ³³
+^rượu	r ɨːu̯ ²¹²
+rượu	r ɨːu̯ ²¹²
+^rẫy	r əi̯ ²¹⁴
+rẫy	r əi̯ ²¹⁴
+^rận	r ə ŋ ²¹²
+rận	r ə ŋ ²¹²
+^rắm	r a m ⁴⁵
+rắm	r a m ⁴⁵
+^rắn	r a ŋ ⁴⁵
+rắn	r a ŋ ⁴⁵
+^rẻ	r ɛː ²¹⁴
+rẻ	r ɛː ²¹⁴
+^rết	r əː t ⁴⁵
+rết	r əː t ⁴⁵
+^rể	r eː ²¹⁴
+rể	r eː ²¹⁴
+^rễ	r eː ²¹⁴
+rễ	r eː ²¹⁴
+^rốn	r o ŋ ⁴⁵
+rốn	r o ŋ ⁴⁵
+^rổ	r oː ²¹⁴
+rổ	r oː ²¹⁴
+^rỗng	r ɔ ŋm ²¹⁴
+rỗng	r ɔ ŋm ²¹⁴
+^rộng	r ɔ ŋm ²¹²
+rộng	r ɔ ŋm ²¹²
+^rời	r əːi̯ ²¹
+rời	r əːi̯ ²¹
+^rụng	r u ŋm ²¹²
+rụng	r u ŋm ²¹²
+^rủa	r uə ²¹⁴
+rủa	r uə ²¹⁴
+^rủi	r ui̯ ²¹⁴
+rủi	r ui̯ ²¹⁴
+^rừng	r ɨ ŋ ²¹
+rừng	r ɨ ŋ ²¹
+^rửa	r ɨə ²¹⁴
+rửa	r ɨə ²¹⁴
+^sai	s aːi̯ ³³
+sai	s aːi̯ ³³
+^sao	s aːu̯ ³³
+sao	s aːu̯ ³³
+^sau	s au̯ ³³
+sau	s au̯ ³³
+^say	s ai̯ ³³
+say	s ai̯ ³³
+^si	s i ³³
+si	s i ³³
+^sinh	s ɨ n ³³
+sinh	s ɨ n ³³
+^sung	s u ŋm ³³
+sung	s u ŋm ³³
+^suy	sʷ i ³³
+suy	sʷ i ³³
+^suốt	s uː k ⁴⁵
+suốt	s uː k ⁴⁵
+^sàn	s aː ŋ ²¹
+sàn	s aː ŋ ²¹
+^sàng	s aː ŋ ²¹
+sàng	s aː ŋ ²¹
+^sào	s aːu̯ ²¹
+sào	s aːu̯ ²¹
+^sách	s a t ⁴⁵
+sách	s a t ⁴⁵
+^sáng	s aː ŋ ⁴⁵
+sáng	s aː ŋ ⁴⁵
+^sáo	s aːu̯ ⁴⁵
+sáo	s aːu̯ ⁴⁵
+^sáp	s aː p ⁴⁵
+sáp	s aː p ⁴⁵
+^sát	s aː k ⁴⁵
+sát	s aː k ⁴⁵
+^sáu	s au̯ ⁴⁵
+sáu	s au̯ ⁴⁵
+^sân	s ə ŋ ³³
+sân	s ə ŋ ³³
+^sâu	s əu̯ ³³
+sâu	s əu̯ ³³
+^sét	s ɛː k ⁴⁵
+sét	s ɛː k ⁴⁵
+^sóc	s ɔ kp ⁴⁵
+sóc	s ɔ kp ⁴⁵
+^sói	s ɔːi̯ ⁴⁵
+sói	s ɔːi̯ ⁴⁵
+^sóng	s ɔ ŋm ⁴⁵
+sóng	s ɔ ŋm ⁴⁵
+^sôi	s oːi̯ ³³
+sôi	s oːi̯ ³³
+^sông	s ɔ ŋm ³³
+sông	s ɔ ŋm ³³
+^súc	s u kp ⁴⁵
+súc	s u kp ⁴⁵
+^súng	s u ŋm ⁴⁵
+súng	s u ŋm ⁴⁵
+^săn	s a ŋ ³³
+săn	s a ŋ ³³
+^sĩ	s i ²¹⁴
+sĩ	s i ²¹⁴
+^sơ	s əː ³³
+sơ	s əː ³³
+^sơn	s əː ŋ ³³
+sơn	s əː ŋ ³³
+^sư	s ɨ ³³
+sư	s ɨ ³³
+^sưng	s ɨ ŋ ³³
+sưng	s ɨ ŋ ³³
+^sương	s ɨː ŋ ³³
+sương	s ɨː ŋ ³³
+^sườn	s ɨː ŋ ²¹
+sườn	s ɨː ŋ ²¹
+^sưởi	s ɨːi̯ ²¹⁴
+sưởi	s ɨːi̯ ²¹⁴
+^sạch	s a t ²¹²
+sạch	s a t ²¹²
+^sải	s aːi̯ ²¹⁴
+sải	s aːi̯ ²¹⁴
+^sấm	s ə m ⁴⁵
+sấm	s ə m ⁴⁵
+^sấu	s əu̯ ⁴⁵
+sấu	s əu̯ ⁴⁵
+^sẫm	s ə m ²¹⁴
+sẫm	s ə m ²¹⁴
+^sắc	s a k ⁴⁵
+sắc	s a k ⁴⁵
+^sắn	s a ŋ ⁴⁵
+sắn	s a ŋ ⁴⁵
+^sắt	s a k ⁴⁵
+sắt	s a k ⁴⁵
+^sẵn	s a ŋ ²¹⁴
+sẵn	s a ŋ ²¹⁴
+^sẹo	s ɛːu̯ ²¹²
+sẹo	s ɛːu̯ ²¹²
+^số	s oː ⁴⁵
+số	s oː ⁴⁵
+^sống	s ɔ ŋm ⁴⁵
+sống	s ɔ ŋm ⁴⁵
+^sốt	s o k ⁴⁵
+sốt	s o k ⁴⁵
+^sồi	s oːi̯ ²¹
+sồi	s oːi̯ ²¹
+^sổ	s oː ²¹⁴
+sổ	s oː ²¹⁴
+^sớm	s əː m ⁴⁵
+sớm	s əː m ⁴⁵
+^sờ	s əː ²¹
+sờ	s əː ²¹
+^sợ	s əː ²¹²
+sợ	s əː ²¹²
+^sừng	s ɨ ŋ ²¹
+sừng	s ɨ ŋ ²¹
+^sữa	s ɨə ²¹⁴
+sữa	s ɨə ²¹⁴
+^sự	s ɨ ²¹²
+sự	s ɨ ²¹²
+^ta	t aː ³³
+ta	t aː ³³
+^tai	t aːi̯ ³³
+tai	t aːi̯ ³³
+^tao	t aːu̯ ³³
+tao	t aːu̯ ³³
+^tay	t ai̯ ³³
+tay	t ai̯ ³³
+^tem	t ɛː m ³³
+tem	t ɛː m ³³
+^tha	tʰ aː ³³
+tha	tʰ aː ³³
+^thai	tʰ aːi̯ ³³
+thai	tʰ aːi̯ ³³
+^tham	tʰ aː m ³³
+tham	tʰ aː m ³³
+^than	tʰ aː ŋ ³³
+than	tʰ aː ŋ ³³
+^thang	tʰ aː ŋ ³³
+thang	tʰ aː ŋ ³³
+^thanh	tʰ a n ³³
+thanh	tʰ a n ³³
+^theo	tʰ ɛːu̯ ³³
+theo	tʰ ɛːu̯ ³³
+^thi	tʰ i ³³
+thi	tʰ i ³³
+^thiên	tʰ iː ŋ ³³
+thiên	tʰ iː ŋ ³³
+^thiêng	tʰ iː ŋ ³³
+thiêng	tʰ iː ŋ ³³
+^thiếc	tʰ iː k ⁴⁵
+thiếc	tʰ iː k ⁴⁵
+^thiếp	tʰ iː p ⁴⁵
+thiếp	tʰ iː p ⁴⁵
+^thiếu	tʰ iːu̯ ⁴⁵
+thiếu	tʰ iːu̯ ⁴⁵
+^thoại	tʰʷ aːi̯ ²¹²
+thoại	tʰʷ aːi̯ ²¹²
+^thu	tʰ u ³³
+thu	tʰ u ³³
+^tu	t u ³³
+tu	t u ³³
+^bu	b u ³³
+^bu_lô	b u ³³ + l ɔː ³³
+^thung	tʰ u ŋm ³³
+thung	tʰ u ŋm ³³
+^thuyền	tʰʷ iː ŋ ²¹
+thuyền	tʰʷ iː ŋ ²¹
+^thuê	tʰʷ eː ³³
+thuê	tʰʷ eː ³³
+^thuật	tʰʷ ə k ²¹²
+thuật	tʰʷ ə k ²¹²
+^thuế	tʰʷ eː ⁴⁵
+thuế	tʰʷ eː ⁴⁵
+^thuốc	tʰ uː k ⁴⁵
+thuốc	tʰ uː k ⁴⁵
+Thuốc	tʰ uː k ⁴⁵
+^Thuốc	tʰ uː k ⁴⁵
+^thuộc	tʰ uː k ²¹²
+thuộc	tʰ uː k ²¹²
+^thành	tʰ a n ²¹
+thành	tʰ a n ²¹
+^thác	tʰ aː k ⁴⁵
+thác	tʰ aː k ⁴⁵
+^thái	tʰ aːi̯ ⁴⁵
+thái	tʰ aːi̯ ⁴⁵
+^tháng	tʰ aː ŋ ⁴⁵
+tháng	tʰ aː ŋ ⁴⁵
+^tháp	tʰ aː p ⁴⁵
+tháp	tʰ aː p ⁴⁵
+^thâm	tʰ ə m ³³
+thâm	tʰ ə m ³³
+^thân	tʰ ə ŋ ³³
+thân	tʰ ə ŋ ³³
+^thìa	tʰ iə ²¹
+thìa	tʰ iə ²¹
+^thím	tʰ i m ⁴⁵
+thím	tʰ i m ⁴⁵
+^thòng	tʰ ɔ ŋm ²¹
+thòng	tʰ ɔ ŋm ²¹
+^thóc	tʰ ɔ kp ⁴⁵
+thóc	tʰ ɔ kp ⁴⁵
+^thôn	tʰ o ŋ ³³
+thôn	tʰ o ŋ ³³
+^thông	tʰ ɔ ŋm ³³
+thông	tʰ ɔ ŋm ³³
+^thù	tʰ u ²¹
+thù	tʰ u ²¹
+^thú	tʰ u ⁴⁵
+thú	tʰ u ⁴⁵
+^thúc	tʰ u kp ⁴⁵
+thúc	tʰ u kp ⁴⁵
+^thúi	tʰ ui̯ ⁴⁵
+thúi	tʰ ui̯ ⁴⁵
+^thơ	tʰ əː ³³
+thơ	tʰ əː ³³
+^thơm	tʰ əː m ³³
+thơm	tʰ əː m ³³
+^thư	tʰ ɨ ³³
+thư	tʰ ɨ ³³
+^thương	tʰ ɨː ŋ ³³
+thương	tʰ ɨː ŋ ³³
+^thường	tʰ ɨː ŋ ²¹
+thường	tʰ ɨː ŋ ²¹
+^thảm	tʰ aː m ²¹⁴
+thảm	tʰ aː m ²¹⁴
+^thảo	tʰ aːu̯ ²¹⁴
+thảo	tʰ aːu̯ ²¹⁴
+^thấp	tʰ ə p ⁴⁵
+thấp	tʰ ə p ⁴⁵
+^thất	tʰ ə k ⁴⁵
+thất	tʰ ə k ⁴⁵
+^thấy	tʰ əi̯ ⁴⁵
+thấy	tʰ əi̯ ⁴⁵
+^thần	tʰ ə ŋ ²¹
+thần	tʰ ə ŋ ²¹
+^thầy	tʰ əi̯ ²¹
+thầy	tʰ əi̯ ²¹
+^thận	tʰ ə ŋ ²¹²
+thận	tʰ ə ŋ ²¹²
+^thập	tʰ ə p ²¹²
+thập	tʰ ə p ²¹²
+^thật	tʰ ə k ²¹²
+thật	tʰ ə k ²¹²
+^thắng	tʰ a ŋ ⁴⁵
+thắng	tʰ a ŋ ⁴⁵
+^thằn	tʰ a ŋ ²¹
+thằn	tʰ a ŋ ²¹
+^thẳng	tʰ a ŋ ²¹⁴
+thẳng	tʰ a ŋ ²¹⁴
+^thế	tʰ eː ⁴⁵
+thế	tʰ eː ⁴⁵
+^thề	tʰ eː ²¹
+thề	tʰ eː ²¹
+^thể	tʰ eː ²¹⁴
+thể	tʰ eː ²¹⁴
+^thị	tʰ i ²¹²
+thị	tʰ i ²¹²
+^thịt	tʰ ɨ t ²¹²
+thịt	tʰ ɨ t ²¹²
+^thỏ	tʰ ɔː ²¹⁴
+thỏ	tʰ ɔː ²¹⁴
+^thối	tʰ oːi̯ ⁴⁵
+thối	tʰ oːi̯ ⁴⁵
+^thống	tʰ ɔ ŋm ⁴⁵
+thống	tʰ ɔ ŋm ⁴⁵
+^thổi	tʰ oːi̯ ²¹⁴
+thổi	tʰ oːi̯ ²¹⁴
+^thờ	tʰ əː ²¹
+thờ	tʰ əː ²¹
+^thời	tʰ əːi̯ ²¹
+thời	tʰ əːi̯ ²¹
+^thở	tʰ əː ²¹⁴
+thở	tʰ əː ²¹⁴
+^thợ	tʰ əː ²¹²
+thợ	tʰ əː ²¹²
+^thụ	tʰ u ²¹²
+thụ	tʰ u ²¹²
+^thủ	tʰ u ²¹⁴
+thủ	tʰ u ²¹⁴
+^thủy	tʰ ui̯ ²¹⁴
+thủy	tʰ ui̯ ²¹⁴
+^thứ	tʰ ɨ ⁴⁵
+thứ	tʰ ɨ ⁴⁵
+^thừa	tʰ ɨə ²¹
+thừa	tʰ ɨə ²¹
+^thử	tʰ ɨ ²¹⁴
+thử	tʰ ɨ ²¹⁴
+^thực	tʰ ɨ k ²¹²
+thực	tʰ ɨ k ²¹²
+^ti	t i ³³
+ti	t i ³³
+^tim	t i m ³³
+tim	t i m ³³
+^tin	t ɨ n ³³
+tin	t ɨ n ³³
+^tinh	t ɨ n ³³
+tinh	t ɨ n ³³
+^tiêm	t iː m ³³
+tiêm	t iː m ³³
+^tiên	t iː ŋ ³³
+tiên	t iː ŋ ³³
+^tiêu	t iːu̯ ³³
+tiêu	t iːu̯ ³³
+^tiếc	t iː k ⁴⁵
+tiếc	t iː k ⁴⁵
+^tiếng	t iː ŋ ⁴⁵
+tiếng	t iː ŋ ⁴⁵
+^tiết	t iː k ⁴⁵
+tiết	t iː k ⁴⁵
+^tiền	t iː ŋ ²¹
+tiền	t iː ŋ ²¹
+^tiểu	t iːu̯ ²¹⁴
+tiểu	t iːu̯ ²¹⁴
+^tiện	t iː ŋ ²¹²
+tiện	t iː ŋ ²¹²
+^to	t ɔː ³³
+to	t ɔː ³³
+^toàn	tʷ aː ŋ ²¹
+toàn	tʷ aː ŋ ²¹
+^trai	ʈ aːi̯ ³³
+trai	ʈ aːi̯ ³³
+^trang	ʈ aː ŋ ³³
+trang	ʈ aː ŋ ³³
+^tranh	ʈ a n ³³
+tranh	ʈ a n ³³
+^tre	ʈ ɛː ³³
+tre	ʈ ɛː ³³
+^treo	ʈ ɛːu̯ ³³
+treo	ʈ ɛːu̯ ³³
+^triều	ʈ iːu̯ ²¹
+triều	ʈ iːu̯ ²¹
+^tro	ʈ ɔː ³³
+tro	ʈ ɔː ³³
+^trong	ʈ ɔ ŋm ³³
+trong	ʈ ɔ ŋm ³³
+^trung	ʈ u ŋm ³³
+trung	ʈ u ŋm ³³
+^truyền	ʈʷ iː ŋ ²¹
+truyền	ʈʷ iː ŋ ²¹
+^trách	ʈ a t ⁴⁵
+trách	ʈ a t ⁴⁵
+^trái	ʈ aːi̯ ⁴⁵
+trái	ʈ aːi̯ ⁴⁵
+^trán	ʈ aː ŋ ⁴⁵
+trán	ʈ aː ŋ ⁴⁵
+^trâu	ʈ əu̯ ³³
+trâu	ʈ əu̯ ³³
+^trên	ʈ əː n ³³
+trên	ʈ əː n ³³
+^trí	ʈ i ⁴⁵
+trí	ʈ i ⁴⁵
+^tròn	ʈ ɔː ŋ ²¹
+tròn	ʈ ɔː ŋ ²¹
+^trùng	ʈ u ŋm ²¹
+trùng	ʈ u ŋm ²¹
+^trăm	ʈ a m ³³
+trăm	ʈ a m ³³
+^trăng	ʈ a ŋ ³³
+trăng	ʈ a ŋ ³³
+^trưa	ʈ ɨə ³³
+trưa	ʈ ɨə ³³
+^trước	ʈ ɨː k ⁴⁵
+trước	ʈ ɨː k ⁴⁵
+^trường	ʈ ɨː ŋ ²¹
+trường	ʈ ɨː ŋ ²¹
+^trưởng	ʈ ɨː ŋ ²¹⁴
+trưởng	ʈ ɨː ŋ ²¹⁴
+^trượt	ʈ ɨː k ²¹²
+trượt	ʈ ɨː k ²¹²
+^trại	ʈ aːi̯ ²¹²
+trại	ʈ aːi̯ ²¹²
+^trả	ʈ aː ²¹⁴
+trả	ʈ aː ²¹⁴
+^trải	ʈ aːi̯ ²¹⁴
+trải	ʈ aːi̯ ²¹⁴
+^trầm	ʈ ə m ²¹
+trầm	ʈ ə m ²¹
+^trần	ʈ ə ŋ ²¹
+trần	ʈ ə ŋ ²¹
+^trắc	ʈ a k ⁴⁵
+trắc	ʈ a k ⁴⁵
+^trắng	ʈ a ŋ ⁴⁵
+trắng	ʈ a ŋ ⁴⁵
+^trẻ	ʈ ɛː ²¹⁴
+trẻ	ʈ ɛː ²¹⁴
+^trệch	ʈ əː t ²¹²
+trệch	ʈ əː t ²¹²
+^trị	ʈ i ²¹²
+trị	ʈ i ²¹²
+^trọt	ʈ ɔː k ²¹²
+trọt	ʈ ɔː k ²¹²
+^trốn	ʈ o ŋ ⁴⁵
+trốn	ʈ o ŋ ⁴⁵
+^trống	ʈ ɔ ŋm ⁴⁵
+trống	ʈ ɔ ŋm ⁴⁵
+^trồng	ʈ ɔ ŋm ²¹
+trồng	ʈ ɔ ŋm ²¹
+^trời	ʈ əːi̯ ²¹
+trời	ʈ əːi̯ ²¹
+^trở	ʈ əː ²¹⁴
+trở	ʈ əː ²¹⁴
+^trụ	ʈ u ²¹²
+trụ	ʈ u ²¹²
+^trục	ʈ u kp ²¹²
+trục	ʈ u kp ²¹²
+^trứng	ʈ ɨ ŋ ⁴⁵
+trứng	ʈ ɨ ŋ ⁴⁵
+^tua	t uə ³³
+tua	t uə ³³
+^tuyết	tʷ iː k ⁴⁵
+tuyết	tʷ iː k ⁴⁵
+^tuyển	tʷ iː ŋ ²¹⁴
+tuyển	tʷ iː ŋ ²¹⁴
+^tuân	tʷ ə ŋ ³³
+tuân	tʷ ə ŋ ³³
+^tuần	tʷ ə ŋ ²¹
+tuần	tʷ ə ŋ ²¹
+^tuổi	t uːi̯ ²¹⁴
+tuổi	t uːi̯ ²¹⁴
+^tàu	t au̯ ²¹
+tàu	t au̯ ²¹
+^tá	t aː ⁴⁵
+tá	t aː ⁴⁵
+^tách	t a t ⁴⁵
+tách	t a t ⁴⁵
+^tám	t aː m ⁴⁵
+tám	t aː m ⁴⁵
+^tâm	t ə m ³³
+tâm	t ə m ³³
+^tây	t əi̯ ³³
+tây	t əi̯ ³³
+^té	t ɛː ⁴⁵
+té	t ɛː ⁴⁵
+^tên	t əː n ³³
+tên	t əː n ³³
+^tìm	t i m ²¹
+tìm	t i m ²¹
+^tình	t ɨ n ²¹
+tình	t ɨ n ²¹
+^tí	t i ⁴⁵
+tí	t i ⁴⁵
+^tích	t ɨ t ⁴⁵
+tích	t ɨ t ⁴⁵
+^tím	t i m ⁴⁵
+tím	t i m ⁴⁵
+^tò	t ɔː ²¹
+tò	t ɔː ²¹
+^tòa	tʷ aː ²¹
+tòa	tʷ aː ²¹
+^tóc	t ɔ kp ⁴⁵
+tóc	t ɔ kp ⁴⁵
+^tô	t oː ³³
+tô	t oː ³³
+^tôi	t oːi̯ ³³
+tôi	t oːi̯ ³³
+^tôm	t oː m ³³
+tôm	t oː m ³³
+^tôn	t o ŋ ³³
+tôn	t o ŋ ³³
+^tù	t u ²¹
+tù	t u ²¹
+^túi	t ui̯ ⁴⁵
+túi	t ui̯ ⁴⁵
+^túp	t ɨ p ⁴⁵
+túp	t ɨ p ⁴⁵
+^tĩnh	t ɨ n ²¹⁴
+tĩnh	t ɨ n ²¹⁴
+^tơ	t əː ³³
+tơ	t əː ³³
+^tư	t ɨ ³³
+tư	t ɨ ³³
+^tương	t ɨː ŋ ³³
+tương	t ɨː ŋ ³³
+^tường	t ɨː ŋ ²¹
+tường	t ɨː ŋ ²¹
+^tưởng	t ɨː ŋ ²¹⁴
+tưởng	t ɨː ŋ ²¹⁴
+^tượng	t ɨː ŋ ²¹²
+tượng	t ɨː ŋ ²¹²
+^tại	t aːi̯ ²¹²
+tại	t aːi̯ ²¹²
+^tạo	t aːu̯ ²¹²
+tạo	t aːu̯ ²¹²
+^tấm	t ə m ⁴⁵
+tấm	t ə m ⁴⁵
+^tấn	t ə ŋ ⁴⁵
+tấn	t ə ŋ ⁴⁵
+^tất	t ə k ⁴⁵
+tất	t ə k ⁴⁵
+^tầm	t ə m ²¹
+tầm	t ə m ²¹
+^tật	t ə k ²¹²
+tật	t ə k ²¹²
+^tắc	t a k ⁴⁵
+tắc	t a k ⁴⁵
+^tắm	t a m ⁴⁵
+tắm	t a m ⁴⁵
+^tắt	t a k ⁴⁵
+tắt	t a k ⁴⁵
+^tế	t eː ⁴⁵
+tế	t eː ⁴⁵
+^tỉnh	t ɨ n ²¹⁴
+tỉnh	t ɨ n ²¹⁴
+^tố	t oː ⁴⁵
+tố	t oː ⁴⁵
+^tối	t oːi̯ ⁴⁵
+tối	t oːi̯ ⁴⁵
+^tốt	t o k ⁴⁵
+tốt	t o k ⁴⁵
+^tồn	t o ŋ ²¹
+tồn	t o ŋ ²¹
+^tổ	t oː ²¹⁴
+tổ	t oː ²¹⁴
+^tổng	t ɔ ŋm ²¹⁴
+tổng	t ɔ ŋm ²¹⁴
+^tộc	t ɔ kp ²¹²
+tộc	t ɔ kp ²¹²
+^tội	t oːi̯ ²¹²
+tội	t oːi̯ ²¹²
+^tục	t u kp ²¹²
+tục	t u kp ²¹²
+^tủ	t u ²¹⁴
+tủ	t u ²¹⁴
+^tức	t ɨ k ⁴⁵
+tức	t ɨ k ⁴⁵
+^từ	t ɨ ²¹
+từ	t ɨ ²¹
+^tử	t ɨ ²¹⁴
+tử	t ɨ ²¹⁴
+^tự	t ɨ ²¹²
+tự	t ɨ ²¹²
+^uốn	ʔ uː ŋ ⁴⁵
+uốn	ʔ uː ŋ ⁴⁵
+^uống	ʔ uː ŋ ⁴⁵
+uống	ʔ uː ŋ ⁴⁵
+^vai	v aːi̯ ³³
+vai	v aːi̯ ³³
+^vang	v aː ŋ ³³
+vang	v aː ŋ ³³
+^vay	v ai̯ ³³
+vay	v ai̯ ³³
+^vi	v i ³³
+vi	v i ³³
+^viên	v iː ŋ ³³
+viên	v iː ŋ ³³
+^viết	v iː k ⁴⁵
+viết	v iː k ⁴⁵
+^viền	v iː ŋ ²¹
+viền	v iː ŋ ²¹
+^việc	v iː k ²¹²
+việc	v iː k ²¹²
+^viện	v iː ŋ ²¹²
+viện	v iː ŋ ²¹²
+^voi	v ɔːi̯ ³³
+voi	v ɔːi̯ ³³
+^vua	v uə ³³
+vua	v uə ³³
+^vui	v ui̯ ³³
+vui	v ui̯ ³³
+^vuông	v uː ŋ ³³
+vuông	v uː ŋ ³³
+^vuốt	v uː k ⁴⁵
+vuốt	v uː k ⁴⁵
+^và	v aː ²¹
+và	v aː ²¹
+^vài	v aːi̯ ²¹
+vài	v aːi̯ ²¹
+^vàng	v aː ŋ ²¹
+vàng	v aː ŋ ²¹
+^vào	v aːu̯ ²¹
+vào	v aːu̯ ²¹
+^vác	v aː k ⁴⁵
+vác	v aː k ⁴⁵
+^vách	v a t ⁴⁵
+vách	v a t ⁴⁵
+^ván	v aː ŋ ⁴⁵
+ván	v aː ŋ ⁴⁵
+^váy	v ai̯ ⁴⁵
+váy	v ai̯ ⁴⁵
+^vây	v əi̯ ³³
+vây	v əi̯ ³³
+^vì	v i ²¹
+vì	v i ²¹
+^vít	v ɨ t ⁴⁵
+vít	v ɨ t ⁴⁵
+^vò	v ɔː ²¹
+vò	v ɔː ²¹
+^vòi	v ɔːi̯ ²¹
+vòi	v ɔːi̯ ²¹
+^vòm	v ɔː m ²¹
+vòm	v ɔː m ²¹
+^vòng	v ɔ ŋm ²¹
+vòng	v ɔ ŋm ²¹
+^vô	v oː ³³
+vô	v oː ³³
+^võng	v ɔ ŋm ²¹⁴
+võng	v ɔ ŋm ²¹⁴
+^vú	v u ⁴⁵
+vú	v u ⁴⁵
+^văn	v a ŋ ³³
+văn	v a ŋ ³³
+^vũ	v u ²¹⁴
+vũ	v u ²¹⁴
+^vương	v ɨː ŋ ³³
+vương	v ɨː ŋ ³³
+^vườn	v ɨː ŋ ²¹
+vườn	v ɨː ŋ ²¹
+^vạc	v aː k ²¹²
+vạc	v aː k ²¹²
+^vải	v aːi̯ ²¹⁴
+vải	v aːi̯ ²¹⁴
+^vảy	v ai̯ ²¹⁴
+vảy	v ai̯ ²¹⁴
+^vận	v ə ŋ ²¹²
+vận	v ə ŋ ²¹²
+^vật	v ə k ²¹²
+vật	v ə k ²¹²
+^vắt	v a k ⁴⁵
+vắt	v a k ⁴⁵
+^vẹt	v ɛː k ²¹²
+vẹt	v ɛː k ²¹²
+^vẽ	v ɛː ²¹⁴
+vẽ	v ɛː ²¹⁴
+^vết	v əː t ⁴⁵
+vết	v əː t ⁴⁵
+^về	v eː ²¹
+về	v eː ²¹
+^vệ	v eː ²¹²
+vệ	v eː ²¹²
+^vị	v i ²¹²
+vị	v i ²¹²
+^vịnh	v ɨ n ²¹²
+vịnh	v ɨ n ²¹²
+^vịt	v ɨ t ²¹²
+vịt	v ɨ t ²¹²
+^vọng	v ɔ ŋm ²¹²
+vọng	v ɔ ŋm ²¹²
+^vỏ	v ɔː ²¹⁴
+vỏ	v ɔː ²¹⁴
+^vồng	v ɔ ŋm ²¹
+vồng	v ɔ ŋm ²¹
+^vội	v oːi̯ ²¹²
+vội	v oːi̯ ²¹²
+^vớ	v əː ⁴⁵
+vớ	v əː ⁴⁵
+^với	v əːi̯ ⁴⁵
+với	v əːi̯ ⁴⁵
+^vỡ	v əː ²¹⁴
+vỡ	v əː ²¹⁴
+^vợ	v əː ²¹²
+vợ	v əː ²¹²
+^vứt	v ɨ k ⁴⁵
+vứt	v ɨ k ⁴⁵
+^vữa	v ɨə ²¹⁴
+vữa	v ɨə ²¹⁴
+^vực	v ɨ k ²¹²
+vực	v ɨ k ²¹²
+^xa	s aː ³³
+xa	s aː ³³
+^xanh	s a n ³³
+xanh	s a n ³³
+^xay	s ai̯ ³³
+xay	s ai̯ ³³
+^xe	s ɛː ³³
+xe	s ɛː ³³
+^xem	s ɛː m ³³
+xem	s ɛː m ³³
+^xin	s ɨ n ³³
+xin	s ɨ n ³³
+^xoáy	sʷ ai̯ ⁴⁵
+xoáy	sʷ ai̯ ⁴⁵
+^xuân	sʷ ə ŋ ³³
+xuân	sʷ ə ŋ ³³
+^xuống	s uː ŋ ⁴⁵
+xuống	s uː ŋ ⁴⁵
+^xuồng	s uː ŋ ²¹
+xuồng	s uː ŋ ²¹
+^xà	s aː ²¹
+xà	s aː ²¹
+^xào	s aːu̯ ²¹
+xào	s aːu̯ ²¹
+^xác	s aː k ⁴⁵
+xác	s aː k ⁴⁵
+^xách	s a t ⁴⁵
+xách	s a t ⁴⁵
+^xát	s aː k ⁴⁵
+xát	s aː k ⁴⁵
+^xây	s əi̯ ³³
+xây	s əi̯ ³³
+^xé	s ɛː ⁴⁵
+xé	s ɛː ⁴⁵
+^xì	s i ²¹
+xì	s i ²¹
+^xích	s ɨ t ⁴⁵
+xích	s ɨ t ⁴⁵
+^xóm	s ɔː m ⁴⁵
+xóm	s ɔː m ⁴⁵
+^xô	s oː ³³
+xô	s oː ³³
+^xúp	s ɨ p ⁴⁵
+xúp	s ɨ p ⁴⁵
+^xăm	s a m ³³
+xăm	s a m ³³
+^xương	s ɨː ŋ ³³
+xương	s ɨː ŋ ³³
+^xưởng	s ɨː ŋ ²¹⁴
+xưởng	s ɨː ŋ ²¹⁴
+^xấu	s əu̯ ⁴⁵
+xấu	s əu̯ ⁴⁵
+^xẻng	s ɛː ŋ ²¹⁴
+xẻng	s ɛː ŋ ²¹⁴
+^xổm	s oː m ²¹⁴
+xổm	s oː m ²¹⁴
+^xử	s ɨ ²¹⁴
+xử	s ɨ ²¹⁴
+^y	ʔ i ³³
+y	ʔ i ³³
+^yêu	ʔ iːu̯ ³³
+yêu	ʔ iːu̯ ³³
+^yến	ʔ iː ŋ ⁴⁵
+yến	ʔ iː ŋ ⁴⁵
+^yếu	ʔ iːu̯ ⁴⁵
+yếu	ʔ iːu̯ ⁴⁵
+^ác	ʔ aː k ⁴⁵
+ác	ʔ aː k ⁴⁵
+^ách	ʔ a t ⁴⁵
+ách	ʔ a t ⁴⁵
+^ám	ʔ aː m ⁴⁵
+ám	ʔ aː m ⁴⁵
+^án	ʔ aː ŋ ⁴⁵
+án	ʔ aː ŋ ⁴⁵
+^ánh	ʔ a n ⁴⁵
+ánh	ʔ a n ⁴⁵
+^âm	ʔ ə m ³³
+âm	ʔ ə m ³³
+^ép	ʔ ɛː p ⁴⁵
+ép	ʔ ɛː p ⁴⁵
+^ít	ʔ ɨ t ⁴⁵
+ít	ʔ ɨ t ⁴⁵
+^óc	ʔ ɔ kp ⁴⁵
+óc	ʔ ɔ kp ⁴⁵
+^ô	ʔ oː ³³
+ô	ʔ oː ³³
+^ô_liu	ʔ oː ³³ + l iu̯ ³³
+ô_liu	ʔ oː ³³ + l iu̯ ³³
+^ôm	ʔ oː m ³³
+ôm	ʔ oː m ³³
+^ông	ʔ ɔ ŋm ³³
+ông	ʔ ɔ ŋm ³³
+^ô_pôt	ʔ oː ³³ + p o k ³³
+ô_pôt	ʔ oː ³³ + p o k ³³
+^ý	ʔ i ⁴⁵
+ý	ʔ i ⁴⁵
+^ăn	ʔ a ŋ ³³
+ăn	ʔ a ŋ ³³
+^đan	ɗ aː ŋ ³³
+đan	ɗ aː ŋ ³³
+^đau	ɗ au̯ ³³
+đau	ɗ au̯ ³³
+^đe	ɗ ɛː ³³
+đe	ɗ ɛː ³³
+^đem	ɗ ɛː m ³³
+đem	ɗ ɛː m ³³
+^đen	ɗ ɛː ŋ ³³
+đen	ɗ ɛː ŋ ³³
+^đi	ɗ i ³³
+đi	ɗ i ³³
+^đinh	ɗ ɨ n ³³
+đinh	ɗ ɨ n ³³
+^điếc	ɗ iː k ⁴⁵
+điếc	ɗ iː k ⁴⁵
+^điếu	ɗ iːu̯ ⁴⁵
+điếu	ɗ iːu̯ ⁴⁵
+^điềm	ɗ iː m ²¹
+điềm	ɗ iː m ²¹
+^điện	ɗ iː ŋ ²¹²
+điện	ɗ iː ŋ ²¹²
+^đo	ɗ ɔː ³³
+đo	ɗ ɔː ³³
+^đom	ɗ ɔː m ³³
+đom	ɗ ɔː m ³³
+^đoán	ɗʷ aː ŋ ⁴⁵
+đoán	ɗʷ aː ŋ ⁴⁵
+^đuốc	ɗ uː k ⁴⁵
+đuốc	ɗ uː k ⁴⁵
+^đuối	ɗ uːi̯ ⁴⁵
+đuối	ɗ uːi̯ ⁴⁵
+^đuổi	ɗ uːi̯ ²¹⁴
+đuổi	ɗ uːi̯ ²¹⁴
+^đà	ɗ aː ²¹
+đà	ɗ aː ²¹
+^đài	ɗ aːi̯ ²¹
+đài	ɗ aːi̯ ²¹
+^đàn	ɗ aː ŋ ²¹
+đàn	ɗ aː ŋ ²¹
+^đào	ɗ aːu̯ ²¹
+đào	ɗ aːu̯ ²¹
+^đá	ɗ aː ⁴⁵
+đá	ɗ aː ⁴⁵
+^đái	ɗ aːi̯ ⁴⁵
+đái	ɗ aːi̯ ⁴⁵
+^đám	ɗ aː m ⁴⁵
+đám	ɗ aː m ⁴⁵
+^đánh	ɗ a n ⁴⁵
+đánh	ɗ a n ⁴⁵
+^đáp	ɗ aː p ⁴⁵
+đáp	ɗ aː p ⁴⁵
+^đáy	ɗ ai̯ ⁴⁵
+đáy	ɗ ai̯ ⁴⁵
+^đâm	ɗ ə m ³³
+đâm	ɗ ə m ³³
+^đâu	ɗ əu̯ ³³
+đâu	ɗ əu̯ ³³
+^đây	ɗ əi̯ ³³
+đây	ɗ əi̯ ³³
+^đêm	ɗ eː m ³³
+đêm	ɗ eː m ³³
+^đình	ɗ ɨ n ²¹
+đình	ɗ ɨ n ²¹
+^đòn	ɗ ɔː ŋ ²¹
+đòn	ɗ ɔː ŋ ²¹
+^đó	ɗ ɔː ⁴⁵
+đó	ɗ ɔː ⁴⁵
+^đói	ɗ ɔːi̯ ⁴⁵
+đói	ɗ ɔːi̯ ⁴⁵
+^đóm	ɗ ɔː m ⁴⁵
+đóm	ɗ ɔː m ⁴⁵
+^đóng	ɗ ɔ ŋm ⁴⁵
+đóng	ɗ ɔ ŋm ⁴⁵
+^đôi	ɗ oːi̯ ³³
+đôi	ɗ oːi̯ ³³
+^đông	ɗ ɔ ŋm ³³
+đông	ɗ ɔ ŋm ³³
+^đùi	ɗ ui̯ ²¹
+đùi	ɗ ui̯ ²¹
+^đúc	ɗ u kp ⁴⁵
+đúc	ɗ u kp ⁴⁵
+^đúng	ɗ u ŋm ⁴⁵
+đúng	ɗ u ŋm ⁴⁵
+^đĩ	ɗ i ²¹⁴
+đĩ	ɗ i ²¹⁴
+^đĩa	ɗ iə ²¹⁴
+đĩa	ɗ iə ²¹⁴
+^đơn	ɗ əː ŋ ³³
+đơn	ɗ əː ŋ ³³
+^đường	ɗ ɨː ŋ ²¹
+đường	ɗ ɨː ŋ ²¹
+^được	ɗ ɨː k ²¹²
+được	ɗ ɨː k ²¹²
+^đại	ɗ aːi̯ ²¹²
+đại	ɗ aːi̯ ²¹²
+^đạo	ɗ aːu̯ ²¹²
+đạo	ɗ aːu̯ ²¹²
+^đạp	ɗ aː p ²¹²
+đạp	ɗ aː p ²¹²
+^đảm	ɗ aː m ²¹⁴
+đảm	ɗ aː m ²¹⁴
+^đảo	ɗ aːu̯ ²¹⁴
+đảo	ɗ aːu̯ ²¹⁴
+^đất	ɗ ə k ⁴⁵
+đất	ɗ ə k ⁴⁵
+^đấu	ɗ əu̯ ⁴⁵
+đấu	ɗ əu̯ ⁴⁵
+^đầm	ɗ ə m ²¹
+đầm	ɗ ə m ²¹
+^đầu	ɗ əu̯ ²¹
+đầu	ɗ əu̯ ²¹
+^đầy	ɗ əi̯ ²¹
+đầy	ɗ əi̯ ²¹
+^đập	ɗ ə p ²¹²
+đập	ɗ ə p ²¹²
+^đậu	ɗ əu̯ ²¹²
+đậu	ɗ əu̯ ²¹²
+^đắng	ɗ a ŋ ⁴⁵
+đắng	ɗ a ŋ ⁴⁵
+^đắt	ɗ a k ⁴⁵
+đắt	ɗ a k ⁴⁵
+^đẹp	ɗ ɛː p ²¹²
+đẹp	ɗ ɛː p ²¹²
+^đẻ	ɗ ɛː ²¹⁴
+đẻ	ɗ ɛː ²¹⁴
+^đế	ɗ eː ⁴⁵
+đế	ɗ eː ⁴⁵
+^đếm	ɗ eː m ⁴⁵
+đếm	ɗ eː m ⁴⁵
+^đến	ɗ əː n ⁴⁵
+đến	ɗ əː n ⁴⁵
+^để	ɗ eː ²¹⁴
+để	ɗ eː ²¹⁴
+^đỉnh	ɗ ɨ n ²¹⁴
+đỉnh	ɗ ɨ n ²¹⁴
+^địa	ɗ iə ²¹²
+địa	ɗ iə ²¹²
+^đọc	ɗ ɔ kp ²¹²
+đọc	ɗ ɔ kp ²¹²
+^đỏ	ɗ ɔː ²¹⁴
+đỏ	ɗ ɔː ²¹⁴
+^đốm	ɗ oː m ⁴⁵
+đốm	ɗ oː m ⁴⁵
+^đốn	ɗ o ŋ ⁴⁵
+đốn	ɗ o ŋ ⁴⁵
+^đốt	ɗ o k ⁴⁵
+đốt	ɗ o k ⁴⁵
+^đồ	ɗ oː ²¹
+đồ	ɗ oː ²¹
+^đồi	ɗ oːi̯ ²¹
+đồi	ɗ oːi̯ ²¹
+^đồng	ɗ ɔ ŋm ²¹
+đồng	ɗ ɔ ŋm ²¹
+^đổ	ɗ oː ²¹⁴
+đổ	ɗ oː ²¹⁴
+^đổi	ɗ oːi̯ ²¹⁴
+đổi	ɗ oːi̯ ²¹⁴
+^độc	ɗ ɔ kp ²¹²
+độc	ɗ ɔ kp ²¹²
+^đội	ɗ oːi̯ ²¹²
+đội	ɗ oːi̯ ²¹²
+^động	ɗ ɔ ŋm ²¹²
+động	ɗ ɔ ŋm ²¹²
+^đục	ɗ u kp ²¹²
+đục	ɗ u kp ²¹²
+^đủ	ɗ u ²¹⁴
+đủ	ɗ u ²¹⁴
+^đứng	ɗ ɨ ŋ ⁴⁵
+đứng	ɗ ɨ ŋ ⁴⁵
+^đực	ɗ ɨ k ²¹²
+đực	ɗ ɨ k ²¹²
+^ưng	ʔ ɨ ŋ ³³
+ưng	ʔ ɨ ŋ ³³
+^ướt	ʔ ɨː k ⁴⁵
+ướt	ʔ ɨː k ⁴⁵
+^ấm	ʔ ə m ⁴⁵
+ấm	ʔ ə m ⁴⁵
+^ẩn	ʔ ə ŋ ²¹⁴
+ẩn	ʔ ə ŋ ²¹⁴
+^ếch	ʔ əː t ⁴⁵
+ếch	ʔ əː t ⁴⁵
+^ốc	ʔ ɔ kp ⁴⁵
+ốc	ʔ ɔ kp ⁴⁵
+^ống	ʔ ɔ ŋm ⁴⁵
+ống	ʔ ɔ ŋm ⁴⁵
+^ổ	ʔ oː ²¹⁴
+ổ	ʔ oː ²¹⁴
+^ớt	ʔ əː k ⁴⁵
+ớt	ʔ əː k ⁴⁵
+^ở	ʔ əː ²¹⁴
+ở	ʔ əː ²¹⁴
+(	NULL
+)	NULL
+_	+
+_$	NULL
+^_	NULL

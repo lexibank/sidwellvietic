@@ -16,12 +16,33 @@ class Dataset(BaseDataset):
     id = "sidwellvietic"
     language_class = CustomLanguage
     form_spec = FormSpec(
-            separators="~;,/", missing_data=["∅", "#"], first_form_only=True,
+            separators="~;,/", missing_data=["∅", "#", "NA", 'XX'], first_form_only=True,
             replacements=[
                 (x, y) for x, y in zip(
+                    '1234567890',
                     '¹²³⁴⁵⁶⁷⁸⁹⁰',
-                    '1234567890')
-                ])
+                    )
+                ]+[
+                    ('-', ''),
+                    #("'", 'ʰ'),
+                    (' "mountain"', ''),
+                    (' "hill"', ''),
+                    (' [<Lao]', ''),
+                    ('[', ''),
+                    (']', ''),
+                    (' < Lao', ''),
+                    (' ', '_'),
+                    ("ʔək__̄", "ʔək"),
+                    ("anaŋ__᷅ ", "anaŋ"),
+                    ("_'abdomen'", ""),
+                    ("dŋ.³³", "dəŋ³³"),
+                    ("_᷄ "[:-2], ""),
+                    ("m̀", "m"),
+                    ("ŋ᷄ "[:-1], "ŋ"),
+                    ("\u1dc4", ""),
+                    ("\u1dc5", "")
+
+                    ])
 
     def cmd_makecldf(self, args):
         # add bib

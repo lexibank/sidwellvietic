@@ -1,33 +1,33 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources
-Vietnamese,VN (standard),,,,,,,,
-MuongHB,Mương [Hoa Binh],,,,,,,,
-MuongSL,Mương [Son La],,,,,,,,
-MuongTH,Mương [Thanh Hoa],,,,,,,,
-MuongBi,Muong (Barker),,,,,,,,
-NguonCL,Nguồn Cổ Liêm,,,,,,,,Nguyen1997
-NguonYT,Nguồn Yên Thọ,,,,,,,,Nguyen 1997
-CuoiThaiHoa,Cuoi Thai Hoa,,,,,,,,
-ThoLangLo,Tho [Lang Lo],,,,,,,,
-CuoiTanHop,Cuoi Tan Hop,,,,,,,,
-ThoCuoiCham,Tho [Cuoi Cham],,,,,,,,6.1
-Phong,Phong,,,,,,,,Ferlus2017
-Toum,Toum,,,,,,,,Ferlus2017
-Liha,Liha,,,,,,,,Ferlus2017
-LihaNVL,Liha,,,,,,,,Peiros2004/LVH
-Sach,Sach,,,,,,,,Ferlus2007
-May,May,,,,,,,,Babaev2018
-Ruc,Ruc,,,,,,,,Nguyen/Tran/Ferlus1998
-Arem,Arem,,,,,,,,Kasuga 2008
-ThavungS,Thavung,,,,,,,,Suwilai
-ThavungPS,Thavung Phon Soung,,,,,,,,Ferlus
-ThavungF,Thavung,,,,,,,,Ferlus1979
-Ahoe,Ahoe,,,,,,,,Enfield2011
-MaliengQB,Malieng (QB),,,,,,,,Samarinan.d.
-MaliengHT,Malieng (HT),,,,,,,,Samarinan.d.
-Pakatan,Malang Pakatan,,,,,,,,NVlNHH2001
-Malang,Malang,,,,,,,,Ferlus1997
-MalengBro,Maleng Bro,,,,,,,,Ferlus1992
-Kri,Kri (HT),,,,,,,,Samarinan.d.
-KriPhoong,Kri Phoong,,,,,,,,Nguye HH2019
-Khmu,Khmu Cuang,,,,,,,,Premsrirat2002
-Jahai,Jahai,,,,,,,,Burenhult2005
+Vietnamese,VN (standard),viet1252,Vietnamese,vie,Eurasia,20.681188,105.774071,Austroasiatic,
+MuongHB,Mương [Hoa Binh],muon1246,Muong,mtq,Eurasia,20.7374,105.186,Austroasiatic,
+MuongSL,Mương [Son La],muon1246,Muong,mtq,Eurasia,20.7374,105.186,Austroasiatic,
+MuongTH,Mương [Thanh Hoa],muon1246,Muong,mtq,Eurasia,20.7374,105.186,Austroasiatic,
+MuongBi,Muong (Barker),muon1246,Muong,mtq,Eurasia,20.7374,105.186,Austroasiatic,
+NguonCL,Nguồn Cổ Liêm,nguo1239,Nguôn,nuo,Eurasia,17.7243,105.932,Austroasiatic,Nguyen1997
+NguonYT,Nguồn Yên Thọ,nguo1239,Nguôn,nuo,Eurasia,17.7243,105.932,Austroasiatic,Nguyen1997
+CuoiThaiHoa,Cuoi Thai Hoa,cuoi1242,Cuoi,,,,,Austroasiatic,
+ThoLangLo,Tho [Lang Lo],thoo1240,Tho,tou,Eurasia,19.3563,105.363,Austroasiatic,
+CuoiTanHop,Cuoi Tan Hop,cuoi1242,Cuoi,,,,,Austroasiatic,
+ThoCuoiCham,Tho [Cuoi Cham],thoo1240,Tho,tou,Eurasia,19.3563,105.363,Austroasiatic,6.1
+Phong,Phong,phon1243,Phong,,Eurasia,,,Austroasiatic,Ferlus2017
+Toum,Toum,toum1239,Toum,,Eurasia,,,Austroasiatic,Ferlus2017
+Liha,Liha,lyha1238,Ly Ha,,Eurasia,,,Austroasiatic,Ferlus2017
+LihaNVL,Liha,lyha1238,Ly Ha,,Eurasia,,,Austroasiatic,Peiros2004/LVH
+Sach,Sach,sach1240,Sach,,Eurasia,,,Austroasiatic,Ferlus2007
+May,May,mayy1239,May,,Eurasia,,,Austroasiatic,Babaev2018
+Ruc,Ruc,rucc1239,Ruc,,Eurasia,,,Austroasiatic,Nguyen/Tran/Ferlus1998
+Arem,Arem,arem1240,Arem,aem,Eurasia,17.7672,105.928,Austroasiatic,Kasuga 2008
+ThavungS,Thavung,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Suwilai
+ThavungPS,Thavung Phon Soung,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Ferlus
+ThavungF,Thavung,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Ferlus1979
+Ahoe,Ahoe,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Enfield2011
+MaliengQB,Malieng (QB),male1282,Maleng,pkt,Eurasia,17.913525,105.52746,Austroasiatic,Samarinan.d.
+MaliengHT,Malieng (HT),male1282,Maleng,pkt,Eurasia,17.913525,105.52746,Austroasiatic,Samarinan.d.
+Pakatan,Malang Pakatan,mali1278,Malieng,,Eurasia,,,Austroasiatic,NVlNHH2001
+Malang,Malang,mali1278,Malieng,,Eurasia,,,Austroasiatic,Ferlus1997
+MalengBro,Maleng Bro,bola1249,Bo-Maleng,bgl,Eurasia,18.18657,104.95342,Austroasiatic,Ferlus1992
+Kri,Kri (HT),khap1242,Kha Phong,,Eurasia,,,Austroasiatic,Samarinan.d.
+KriPhoong,Kri Phoong,khap1242,Kha Phong,,Eurasia,,,Austroasiatic,NguyeHH2019
+Khmu,Khmu Cuang,khmu1256,Khmu,kjg,Eurasia,20.2463,101.671,Austroasiatic,Premsrirat2002
+Jahai,Jahai,jeha1242,Jehai,jhi,Eurasia,5.63695,101.541,Austroasiatic,Burenhult2005

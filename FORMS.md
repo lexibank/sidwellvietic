@@ -13,11 +13,11 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
 - `separators`: `~;,/`
   Iterable of single character tokens that should be recognized as word separator
-- `missing_data`: `['∅', '#', 'NA', 'XX']`
+- `missing_data`: `['∅', '#', 'NA', 'XX', '*#']`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[('1', '¹'), ('2', '²'), ('3', '³'), ('4', '⁴'), ('5', '⁵'), ('6', '⁶'), ('7', '⁷'), ('8', '⁸'), ('9', '⁹'), ('0', '⁰'), ('-', ''), (' "mountain"', ''), (' "hill"', ''), (' [<Lao]', ''), ('[', ''), (']', ''), (' < Lao', ''), (' ', '_'), ('ʔək__̄', 'ʔək'), ('anaŋ__᷅ ', 'anaŋ'), ("_'abdomen'", ''), ('d\uf1f6ŋ.³³', 'dəŋ³³'), ('_', ''), ('m̀', 'm'), ('ŋ᷄', 'ŋ'), ('᷄', ''), ('᷅', '')]`
+- `replacements`: `[('1', '¹'), ('2', '²'), ('3', '³'), ('4', '⁴'), ('5', '⁵'), ('6', '⁶'), ('7', '⁷'), ('8', '⁸'), ('9', '⁹'), ('0', '⁰'), ('-', ''), ('(diː | tiː)', 'diː'), ('(guːs | kuːs)', 'guːs'), ('(ɟiːŋ | ciɲ)', 'ɟiːŋ'), ('(k-riɛs / k-rɛs | res)', 'k-riɛs'), (' "mountain"', ''), (' "hill"', ''), (' [<Lao]', ''), ('[', ''), (']', ''), (' < Lao', ''), (' ', '_'), ('ʔək__̄', 'ʔək'), ('anaŋ__᷅ ', 'anaŋ'), ("_'abdomen'", ''), ('d\uf1f6ŋ.³³', 'dəŋ³³'), ('_', ''), ('m̀', 'm'), ('ŋ᷄', 'ŋ'), ('᷄', ''), ('᷅', '')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `True`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.

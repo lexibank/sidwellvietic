@@ -18,6 +18,8 @@ Available online at https://zenodo.org/record/5263195
 
 The data used here was extracted from the Excel file shared on Zenodo (https://zenodo.org/record/5263195). The file also contains the nexus file which the authors derived, which was separated here.
 
+When preparing the dataset, Proto-Vietic is treated as a language on its own rights, but since cognate sets are not assigned from Proto-Vietic forms, these are left empty. As a result, the data cannot be used directly to check, for example, for the correctness of automatic linguistic reconstructions.
+
 
 
 ## Statistics
@@ -29,23 +31,23 @@ The data used here was extracted from the Excel file shared on Zenodo (https://z
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 32
+- **Varieties:** 33
 - **Concepts:** 116
-- **Lexemes:** 3,135
+- **Lexemes:** 3,218
 - **Sources:** 19
 - **Synonymy:** 1.00
-- **Cognacy:** 3,135 cognates in 571 cognate sets (249 singletons)
-- **Cognate Diversity:** 0.15
+- **Cognacy:** 3,218 cognates in 654 cognate sets (332 singletons)
+- **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
-- **Tokens:** 12,332
-- **Segments:** 446 (0 BIPA errors, 0 CTLS sound class errors, 445 CLTS modified)
-- **Inventory size (avg):** 55.53
+- **Tokens:** 12,661
+- **Segments:** 449 (0 BIPA errors, 0 CTLS sound class errors, 448 CLTS modified)
+- **Inventory size (avg):** 54.82
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 760/3135 (24.24%)
+- Entries missing sources: 760/3218 (23.62%)
 
 # Contributors
 

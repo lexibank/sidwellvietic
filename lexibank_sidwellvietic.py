@@ -16,7 +16,7 @@ class Dataset(BaseDataset):
     id = "sidwellvietic"
     language_class = CustomLanguage
     form_spec = FormSpec(
-            separators="~;,/", missing_data=["∅", "#", "NA", 'XX'], first_form_only=True,
+            separators="~;,/", missing_data=["∅", "#", "NA", 'XX', '*#'], first_form_only=True,
             replacements=[
                 (x, y) for x, y in zip(
                     '1234567890',
@@ -24,6 +24,10 @@ class Dataset(BaseDataset):
                     )
                 ]+[
                     ('-', ''),
+                    ("(diː | tiː)", "diː"),
+                    ("(guːs | kuːs)", "guːs"),
+                    ("(ɟiːŋ | ciɲ)", "ɟiːŋ"),
+                    ("(k-riɛs / k-rɛs | res)", "k-riɛs"),
                     #("'", 'ʰ'),
                     (' "mountain"', ''),
                     (' "hill"', ''),
@@ -40,7 +44,7 @@ class Dataset(BaseDataset):
                     ("m̀", "m"),
                     ("ŋ᷄ "[:-1], "ŋ"),
                     ("\u1dc4", ""),
-                    ("\u1dc5", "")
+                    ("\u1dc5", ""),
 
                     ])
 

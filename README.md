@@ -1,5 +1,7 @@
 # CLDF dataset derived from Sidwell and Alves' "Vietic Lexicon" from 2021
 
+[![CLDF validation](https://github.com/lexibank/sidwellvietic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellvietic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -14,6 +16,9 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/5263195
 
+
+Conceptlists in Concepticon:
+- [Sidwell-2021-116](https://concepticon.clld.org/contributions/Sidwell-2021-116)
 ## Notes
 
 The data used here was extracted from the Excel file shared on Zenodo (https://zenodo.org/record/5263195). The file also contains the nexus file which the authors derived, which was separated here.
@@ -25,14 +30,15 @@ When preparing the dataset, Proto-Vietic is treated as a language on its own rig
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/sidwellvietic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sidwellvietic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 76%](https://img.shields.io/badge/Source-76%25-yellow.svg "Source: 76%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 33
-- **Concepts:** 116
+- **Varieties:** 33 (linked to 20 different Glottocodes)
+- **Concepts:** 116 (linked to 116 different Concepticon concept sets)
 - **Lexemes:** 3,218
 - **Sources:** 19
 - **Synonymy:** 1.00
@@ -40,7 +46,7 @@ When preparing the dataset, Proto-Vietic is treated as a language on its own rig
 - **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
 - **Tokens:** 12,661
-- **Segments:** 449 (0 BIPA errors, 0 CTLS sound class errors, 448 CLTS modified)
+- **Segments:** 449 (0 BIPA errors, 0 CLTS sound class errors, 448 CLTS modified)
 - **Inventory size (avg):** 54.82
 
 ## Possible Improvements:
@@ -55,7 +61,7 @@ Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Paul Sidwell | | | Author
 Mark Alves | | | Author
-Johann-Mattis List | @LinguList| CLDF conversion | Other
+Johann-Mattis List | @LinguList| CLDF conversion, maintainer | Editor
 
 
 

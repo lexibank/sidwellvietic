@@ -2,6 +2,7 @@
     "id": "sidwellvietic",
     "title": "CLDF dataset derived from Sidwell and Alves' \"Vietic Lexicon\" from 2021",
     "license": "CC-BY-4.0",
+    "conceptlist": ["Sidwell-2021-116"],
     "url": "https://zenodo.org/record/5263195",
     "citation": "Sidwell, Paul, & Alves, Mark. (2021). Vietic 116 item phylogenetic lexicon (First version (26 Aug 2021)eng) [Data set]. 9th International Conference on Austroasiatic Linguistics (ICAAL 9), Lund, Sweden. Zenodo. https://doi.org/10.5281/zenodo.5263195."
 }

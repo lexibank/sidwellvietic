@@ -11,13 +11,13 @@ CuoiThaiHoa,Cuoi Thai Hoa,cuoi1242,Cuoi,,,,,Austroasiatic,
 ThoLangLo,Tho [Lang Lo],thoo1240,Tho,tou,Eurasia,19.3563,105.363,Austroasiatic,
 CuoiTanHop,Cuoi Tan Hop,cuoi1242,Cuoi,,,,,Austroasiatic,
 ThoCuoiCham,Tho [Cuoi Cham],thoo1240,Tho,tou,Eurasia,19.3563,105.363,Austroasiatic,6.1
-Phong,Phong,phon1243,Phong,,Eurasia,,,Austroasiatic,Ferlus2017
-Toum,Toum,toum1239,Toum,,Eurasia,,,Austroasiatic,Ferlus2017
+Phong,Phong,phon1243,Phong,,Eurasia,18.60928,104.92259,Austroasiatic,Ferlus2017
+Toum,Toum,toum1239,Toum,,Eurasia,18.8,104.8,Austroasiatic,Ferlus2017
 Liha,Liha,lyha1238,Ly Ha,,Eurasia,,,Austroasiatic,Ferlus2017
 LihaNVL,Liha,lyha1238,Ly Ha,,Eurasia,,,Austroasiatic,Peiros2004/LVH
 Sach,Sach,sach1240,Sach,,Eurasia,,,Austroasiatic,Ferlus2007
-May,May,mayy1239,May,,Eurasia,,,Austroasiatic,Babaev2018
-Ruc,Ruc,rucc1239,Ruc,,Eurasia,,,Austroasiatic,Nguyen/Tran/Ferlus1998
+May,May,mayy1239,May,,Eurasia,17.98149,105.62218,Austroasiatic,Babaev2018
+Ruc,Ruc,rucc1239,Ruc,,Eurasia,17.68293,105.7841,Austroasiatic,Nguyen/Tran/Ferlus1998
 Arem,Arem,arem1240,Arem,aem,Eurasia,17.7672,105.928,Austroasiatic,Kasuga 2008
 ThavungS,Thavung,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Suwilai
 ThavungPS,Thavung Phon Soung,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,Ferlus
@@ -28,7 +28,7 @@ MaliengHT,Malieng (HT),male1282,Maleng,pkt,Eurasia,17.913525,105.52746,Austroasi
 Pakatan,Malang Pakatan,mali1278,Malieng,,Eurasia,,,Austroasiatic,NVlNHH2001
 Malang,Malang,mali1278,Malieng,,Eurasia,,,Austroasiatic,Ferlus1997
 MalengBro,Maleng Bro,bola1249,Bo-Maleng,bgl,Eurasia,18.18657,104.95342,Austroasiatic,Ferlus1992
-Kri,Kri (HT),khap1242,Kha Phong,,Eurasia,,,Austroasiatic,Samarinan.d.
-KriPhoong,Kri Phoong,khap1242,Kha Phong,,Eurasia,,,Austroasiatic,NguyeHH2019
+Kri,Kri (HT),khap1242,Kha Phong,,Eurasia,18.25,105.0,Austroasiatic,Samarinan.d.
+KriPhoong,Kri Phoong,khap1242,Kha Phong,,Eurasia,18.25,105.0,Austroasiatic,NguyeHH2019
 Khmu,Khmu Cuang,khmu1256,Khmu,kjg,Eurasia,20.2463,101.671,Austroasiatic,Premsrirat2002
 Jahai,Jahai,jeha1242,Jehai,jhi,Eurasia,5.63695,101.541,Austroasiatic,Burenhult2005
